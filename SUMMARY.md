@@ -31,3 +31,4 @@
 * [📈 Chapter 9: How do we respond to tensions arising from some economic impacts of globalisation?](social-studies/chapter-9-how-do-we-respond-to-tensions-arising-from-some-economic-impacts-of-globalisation.md)
 * [🏮 Chapter 10: How do we respond to tensions arising from some cultural impacts of globalization?](social-studies/chapter-10-how-do-we-respond-to-tensions-arising-from-some-cultural-impacts-of-globalization.md)
 * [💣 Chapter 11: How do we respond to tensions arising from some security impacts of globalization?](social-studies/chapter-11-how-do-we-respond-to-tensions-arising-from-some-security-impacts-of-globalization.md)
+* [SS Skills](social-studies/ss-skills.md)
