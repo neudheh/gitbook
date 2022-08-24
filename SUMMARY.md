@@ -14,7 +14,7 @@
 * [🪖 Stalin's Soviet union](history/stalins-soviet-union.md)
 * [Hitler](history/hitler.md)
 * [WWII in Europe](history/wwii-in-europe.md)
-* [WWII in Asia Pacific](history/wwii-in-asia-pacific.md)
+* [🇯🇵 WWII in Asia Pacific](history/wwii-in-asia-pacific.md)
 
 ## physics
 

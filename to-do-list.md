@@ -34,7 +34,7 @@ History
 * [x] Hitler
 * [ ] Outbreak of WWII in Germany
 * [ ] Defeat of Germany in WWII
-* [ ] Outbreak of WWII in Asia Pacific
+* [x] Outbreak of WWII in Asia Pacific
 * [ ] Defeat of Japan in WWII
 * [ ] Origins of Cold War (might just not study)
 * [ ] Korean War\
