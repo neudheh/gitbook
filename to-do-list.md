@@ -29,17 +29,18 @@ Geography
 
 History
 
-* [ ] TOV/LON
-* [ ] Stalin
-* [ ] Hitler
+* [x] TOV/LON
+* [x] Stalin
+* [x] Hitler
 * [ ] Outbreak of WWII in Germany
 * [ ] Defeat of Germany in WWII
 * [ ] Outbreak of WWII in Asia Pacific
 * [ ] Defeat of Japan in WWII
-* [ ] Origins of Cold War
-* [ ] Korean War
-* [ ] Cuban Missile Crisis
-* [ ] End of Cold War
+* [ ] Origins of Cold War (might just not study)
+* [ ] Korean War\
+  (might just not study)
+* [ ] Cuban Missile Crisis (gonna briefly read before exams to get a gist of things)
+* [ ] End of Cold War (might just not study)
 
 Physics
 
