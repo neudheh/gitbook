@@ -4,6 +4,16 @@
 * [Helpful things](helpful-things.md)
 * [To-do list](to-do-list.md)
 
+## chemistry
+
+* [Kinetic Particle Theory](chemistry/kinetic-particle-theory.md)
+* [Measurement and experimental techniques](chemistry/measurement-and-experimental-techniques.md)
+* [The atmosphere and the environment](chemistry/the-atmosphere-and-the-environment.md)
+* [Crude oil and fuels](chemistry/crude-oil-and-fuels.md)
+* [Alkanes and alkenes](chemistry/alkanes-and-alkenes.md)
+* [Alcohols and carboxylic acids](chemistry/alcohols-and-carboxylic-acids.md)
+* [Macromolecules](chemistry/macromolecules.md)
+
 ## geography
 
 * [🏖 Coasts](geography/coasts/README.md)

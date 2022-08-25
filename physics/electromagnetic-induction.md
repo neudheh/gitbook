@@ -131,7 +131,7 @@ Parts of a transformer:
 
 * A C.R.O is a device that shows how voltage varies with time
 
-![](<../.gitbook/assets/image (13).png>) ![](<../.gitbook/assets/Screenshot 2022-08-12 7.53.56 AM.png>)
+![](<../.gitbook/assets/image (13) (1).png>) ![](<../.gitbook/assets/Screenshot 2022-08-12 7.53.56 AM.png>)
 
 * The X-Shift control adjusts the position of the trace horizontally
 * The Y-Shift control adjusts the position of the trace vertically

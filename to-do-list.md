@@ -23,7 +23,7 @@ Geography
 * [x] Coasts
 * [ ] Plate tectonics
 * [ ] Weather and climate
-* [ ] Tourism
+* [x] Tourism
 * [ ] Food
 * [ ] Health
 
@@ -32,15 +32,14 @@ History
 * [x] TOV/LON
 * [x] Stalin
 * [x] Hitler
-* [ ] Outbreak of WWII in Germany
-* [ ] Defeat of Germany in WWII
+* [x] Outbreak of WWII in Germany
+* [x] Defeat of Germany in WWII
 * [x] Outbreak of WWII in Asia Pacific
-* [ ] Defeat of Japan in WWII
-* [ ] Origins of Cold War (might just not study)
-* [ ] Korean War\
-  (might just not study)
-* [ ] Cuban Missile Crisis (gonna briefly read before exams to get a gist of things)
-* [ ] End of Cold War (might just not study)
+* [x] Defeat of Japan in WWII
+* [ ] Origins of Cold War
+* [ ] Korean War
+* [ ] Cuban Missile Crisis
+* [ ] End of Cold War
 
 Physics
 
@@ -69,30 +68,29 @@ Physics
 
 Chemistry
 
-* [ ] Chapter 1
-* [ ] Chapter 2
-* [ ] Chapter 3
-* [ ] Chapter 4
-* [ ] Chapter 5
-* [ ] Chapter 6
-* [ ] Chapter 7
-* [ ] Chapter 8
-* [ ] Chapter 9
-* [ ] Chapter 10
-* [ ] Chapter 11
-* [ ] Chapter 12
-* [ ] Chapter 13
-* [ ] Chapter 14
-* [ ] Chapter 15
-* [ ] Chapter 16
-* [ ] Chapter 17
-* [ ] Chapter 18
-* [ ] Chapter 19
-* [ ] Chapter 20
-* [ ] Chapter 21
-* [ ] Chapter 22
-* [ ] Chapter 23
-* [ ] Chapter 24
+* [x] Chapter 1: Kinetic Particle Theory
+* [x] Chapter 2: Measurement and experimental Techniques
+* [ ] Chapter 3: Separation and purification \*
+* [ ] Chapter 4: Elements, Compounds and Mixtures \*
+* [ ] Chapter 5: Atomic Structure
+* [ ] Chapter 6 and 7: Ionic, Covalent and Metallic bonding
+
+_chapters 8, 9 and 10 are skills and you can't study them_
+
+* [ ] Chapter 11: Acids and bases
+* [ ] Chapter 12: Salts
+* [ ] Chapter 13: Oxidation and Reduction (halfway there!!!)
+* [ ] Chapter 14: Metals
+* [ ] Chapter 15: Electrolysis
+* [ ] Chapter 16: Periodic Table
+* [ ] Chapter 17: Energy Changes
+* [ ] Chapter 18: Speed of Reaction
+* [ ] Chapter 19: Ammonia
+* [x] Chapter 20: The atmosphere and environment
+* [x] Chapter 21:  Crude Oil and Fuels
+* [x] Chapter 22: Alkanes and Alkenes
+* [x] Chapter 23: Alcohols and Carboxylic acids
+* [ ] Chapter 24: Macromolecules
 
 EMath
 
