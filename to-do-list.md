@@ -20,7 +20,7 @@ SS
 
 Geography
 
-* [ ] Coasts
+* [x] Coasts
 * [ ] Plate tectonics
 * [ ] Weather and climate
 * [ ] Tourism
@@ -96,15 +96,15 @@ Chemistry
 
 EMath
 
-* [ ] Papers
+* [x] Papers
 
 AMath
 
-* [ ] Papers
+* [x] Papers
 
 English
 
-* [ ] Papers
+* [x] Papers
 
 
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  "sometimes all i think about is you, late nights in the middle of june, heat
+  "sometimes all I think about is you, late nights in the middle of June, heat
   waves been faking me out, can't make you happier now.."
 cover: >-
   https://images.unsplash.com/photo-1605727216801-e27ce1d0cc28?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx0aHVuZGVyc3Rvcm18ZW58MHx8fHwxNjU5NTc3NDM0&ixlib=rb-1.2.1&q=80
