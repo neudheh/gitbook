@@ -14,7 +14,7 @@
 * The alkane homologous series has a general formula of $$C_nH_{2n+2}$$
 *   The first four alkanes are Methane ($$CH_4$$​), Ethane ($$C_2H_6$$) Propane $$(C_3H_8)$$ and Butane $$(C_4H_{10})$$​
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 | Similarities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Differences                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@
 
 ## Isomerism in alkenes
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Change the position of the double bond
 * Branching
@@ -81,7 +81,7 @@
 * Addition reactions are reactions in which molecules of another element or compound add to the C=C bond of the unsaturated organic compound to form a saturated new compound
 
 {% hint style="info" %}
-add the new element where the double bond was<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+add the new element where the double bond was<img src="../.gitbook/assets/image (3) (2).png" alt="" data-size="original">
 {% endhint %}
 
 #### Hydrogen
@@ -133,7 +133,7 @@ add the new element where the double bond was<img src="../.gitbook/assets/image 
 
  
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

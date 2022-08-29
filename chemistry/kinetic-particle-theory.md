@@ -65,7 +65,7 @@
 
 #### Melting curve of a substance
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Solid heats up
   * Temperature of solid increases until it reaches its melting point (B)

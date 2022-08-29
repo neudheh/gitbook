@@ -86,7 +86,7 @@ coverY: 615.9437185929648
 * A **transformer** is a device that can change a high alternating voltage to a low alternating voltage, or vice versa
 * Symbol:&#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Parts of a transformer:
 
@@ -131,7 +131,7 @@ Parts of a transformer:
 
 * A C.R.O is a device that shows how voltage varies with time
 
-![](<../.gitbook/assets/image (13) (1).png>) ![](<../.gitbook/assets/Screenshot 2022-08-12 7.53.56 AM.png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>) ![](<../.gitbook/assets/Screenshot 2022-08-12 7.53.56 AM.png>)
 
 * The X-Shift control adjusts the position of the trace horizontally
 * The Y-Shift control adjusts the position of the trace vertically
