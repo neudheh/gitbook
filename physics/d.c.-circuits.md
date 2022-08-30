@@ -18,7 +18,7 @@
 * This fraction of the voltage is known as the output voltage, $$V_{out}$$
 *   Formula: $$V_{out} = \frac {R_2}{R_1+R_2} \times V_\varepsilon$$​
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 * A variable potential divider can be made by using a **rheostat**&#x20;
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
@@ -26,9 +26,9 @@
 * A rheostat is a type of variable resistor
 * The resistance of the rheostat can be adjusted by moving the slider
 * Since $$V_{out} = \frac {R_2}{R_1+R_2} \times V_\varepsilon$$, when $$R_1$$​is increased, $$V_{out}$$ decreases
-* A variable potential divider can also be made using a potentiometer, with the symbol<img src="../.gitbook/assets/image (17).png" alt="" data-size="line">, which is a rheostat connected at 3 points, A, B and C
+* A variable potential divider can also be made using a potentiometer, with the symbol<img src="../.gitbook/assets/image (17) (2).png" alt="" data-size="line">, which is a rheostat connected at 3 points, A, B and C
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Contact C is the sliding point
 * Since the resistance is proportional to the length of the wire, the position of the slider determines the resistance of AC to BC

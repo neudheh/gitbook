@@ -16,7 +16,7 @@
 * Formula: $$P = h\rho g$$​, where P = pressure (newton per square meter, $$N/m^2$$​ or pascal, Pa), h = height of point beneath liquid surface (meter, m), $$\rho$$​= density of liquid (kilograms per meter cubed, $$kg/m^3$$​), g = gravitational field strength (newtons per kilogram, $$N/kg$$​)
 * Points of the same depth have the same pressure
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The liquid will always find a common level on all sides as the pressure on the surface of the liquids is equal to atmospheric pressure
 * Any pressure difference due to difference in height will cause the liquid to flow until the pressure equalizes when the height becomes zero
@@ -50,7 +50,7 @@
 * The air pressure at sea level is about $$1.013\times10^5$$​Pa, which is referred to one atmospheric pressure (1 atm)
 * Atmospheric pressure can be measured by using a simple mercury barometer
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The pressure at the top of the mercury column is zero because of the vacuum
 * Points A and C have the same pressure which is equal to atmospheric pressure as they have been exposed to the air
@@ -66,4 +66,4 @@
 * The gas connected to the arm with the lower liquid level has a lower gas pressure
 * The actual gas pressure can be determined suing both a manometer with one arm exposed to the atmosphere and a barometer for determining atmospheric pressure
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

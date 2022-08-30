@@ -48,7 +48,7 @@
 
 ## Isomerism in Alcohols
 
-<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * The position of the hydroxyl group (-OH) can vary
 * The carbon chain can be straight or branched

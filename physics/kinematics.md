@@ -55,7 +55,7 @@
 {% endtab %}
 
 {% tab title="graph 2" %}
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48) (1).png>)
 
 * The object is at a certain distance from its starting point
 * Displacement remain the same at all times, therefore the object is not moving
@@ -87,7 +87,7 @@
 {% endtab %}
 
 {% tab title="graph 6" %}
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 * The displacement is changing non-uniformly with time
 * For equal time intervals, the change in displacement is decreasing
@@ -114,7 +114,7 @@
 {% endtab %}
 
 {% tab title="graph 2" %}
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48) (1).png>)
 
 * The velocity remains at a constant value as time increases, therefore the object has a uniform speed
 * Constant velocity, 0m/^2 acceleration, and the distance travelled it the area of the rectangle under the graph
@@ -142,7 +142,7 @@
 {% endtab %}
 
 {% tab title="graph 6" %}
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 * For equal time intervals, the change in velocity is getting smaller and smaller
 * Velocity is increasing at a decreasing rate, and the acceleration is decreasing

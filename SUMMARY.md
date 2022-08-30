@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
-* [Helpful things](helpful-things.md)
+* [Helpful things](helpful-things/README.md)
+  * [Page 2](helpful-things/page-2.md)
 * [To-do list](to-do-list.md)
 
 ## chemistry
@@ -20,11 +21,19 @@
   * [KQ1: How and why are coastal environments different and dynamic?](geography/coasts/kq1-how-and-why-are-coastal-environments-different-and-dynamic.md)
   * [KQ2: Why are coastal areas valuable?](geography/coasts/kq2-why-are-coastal-areas-valuable.md)
   * [KQ3: How can we manage coastal areas in a sustainable manner?](geography/coasts/kq3-how-can-we-manage-coastal-areas-in-a-sustainable-manner.md)
-* [⛈ Weather and climate](geography/weather-and-climate.md)
 * [✈ Tourism](geography/tourism/README.md)
   * [KQ1: How does tourism vary from place to place?](geography/tourism/kq1-how-does-tourism-vary-from-place-to-place.md)
   * [KQ2: Why has tourism become a global phenomenon?](geography/tourism/kq2-why-has-tourism-become-a-global-phenomenon.md)
   * [KQ3: Developing tourism at what cost?](geography/tourism/kq3-developing-tourism-at-what-cost.md)
+* [☁ Weather and climate](geography/weather-and-climate/README.md)
+  * [KQ1: Why do different places experience different weather and climate?](geography/weather-and-climate/kq1-why-do-different-places-experience-different-weather-and-climate.md)
+  * [KQ2: What is happening to the earth's climate?](geography/weather-and-climate/kq2-what-is-happening-to-the-earths-climate.md)
+  * [KQ3: Is the weather becoming more extreme?](geography/weather-and-climate/kq3-is-the-weather-becoming-more-extreme.md)
+  * [Answering questions](geography/weather-and-climate/answering-questions.md)
+* [🏥 Health](geography/health/README.md)
+  * [KQ1: What are the global patterns of health and diseases?](geography/health/kq1-what-are-the-global-patterns-of-health-and-diseases.md)
+  * [KQ2: What influences the spread and impacts of infectious diseaeses?](geography/health/kq2-what-influences-the-spread-and-impacts-of-infectious-diseaeses.md)
+  * [KQ3: How can we manage the current and future spread of infectious diseases?](geography/health/kq3-how-can-we-manage-the-current-and-future-spread-of-infectious-diseases.md)
 
 ## history
 

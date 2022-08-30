@@ -22,7 +22,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -38,7 +38,7 @@
 * Protons cannot be added or removed as they cannot be removed from the nucleus of an atom
 * Commonly used to charge an electrical insulator because electrons are not free to flow through them
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When a glass rod and silk are rubbed together, electrons from the surface of the glass rod are transferred to the cloth
 * The rod has an excess of positive charges and thus becomes positively charged

@@ -17,11 +17,11 @@ coverY: 0
 * The direction of the magnetic field of a current-carrying wire reverses when the direction of the current is reversed
 * The other fingers point in the direction of the magnetic field
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 * A coil with many turns is called a solenoid
 
-![](<../.gitbook/assets/image (19) (1).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 {% hint style="info" %}
 The magnetic field lines are directed from the north pole to the south pole **outside** the solenoid, but they are directed from the south pole to the north pole **inside** the solenoid&#x20;
@@ -35,7 +35,7 @@ The magnetic field lines are directed from the north pole to the south pole **ou
   * Placing a soft iron core within the solenoid
 * The magnetic effect of a current is used in circuit breaker
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (53).png>)
 
 * When a large current passes through the circuit breaker, the solenoid become more strongly magnetized and attracts the soft iron latch
 * The spring pushes back the safety bar, breaking the circuit by opening the interrupt point
@@ -48,7 +48,7 @@ The magnetic field lines are directed from the north pole to the south pole **ou
 * This results in a force that acts from the stronger magnetic fields to the weaker magnetic field
 * We can use Fleming's right hand rule to deduce the direction of the force acting on a current-carrying conductor in a magnetic field
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 {% hint style="info" %}
 Easy trick to remember Fleming's left hand rule
@@ -60,7 +60,7 @@ Easy trick to remember Fleming's left hand rule
 
 ### Forces between two parallel carrying conductors
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 **Opposite direction**
 
@@ -76,12 +76,12 @@ Easy trick to remember Fleming's left hand rule
 
 ### Force on a positively charged particle in a magnetic field
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 * Positive particles always have a current in the direction they are traveling in, while negative particles have a current in the opposite direction they are traveling in
 * Using Fleming's left hand rule, we can deduce that the positive charge is deflected upwards due to the upwards force acting on it
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 ## Turnining effect on a current-carrying coil in a magnetic field
 
@@ -95,24 +95,24 @@ Easy trick to remember Fleming's left hand rule
 
 What happens if the coil has turned 90° and goes past the vertical position?
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 * Using Fleming's left hand rule, an upward force is produced on the top side and a downward force is produced on the bottom side of the coil
 * These forces will create an anti-clockwise moment about the axis of rotation
 * The coil will then rotate anti-clockwise
 
-![](<../.gitbook/assets/image (17) (1) (1).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 * Once it goes past the vertical position to the left, a clockwise moment will be produced instead
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 * Hence the coil will rotate to and fro and finally comes to rest with the coil in the vertical position
 * Although there are still forces acting on the coil, no moment is produced because the perpendicular distance from the line of action of the force to the pivot is zero
 
 ### The DC motor
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 * Main components
   * A single rectangular coil of wire mounted on an axle
@@ -130,19 +130,19 @@ What happens if the coil has turned 90° and goes past the vertical position?
 * The forces acting on the sides of the coil will also reverse every half a revolution
 * **This ensures the the direction of turning effect created due to the forces is always the same and hence causes the coil to rotate continuously in the same direction**
 
-![](https://media.discordapp.net/attachments/1000674790266384424/1006859795741024356/IMG\_4326.jpg?width=1440\&height=630) ![](<../.gitbook/assets/image (15).png>)
+![](https://media.discordapp.net/attachments/1000674790266384424/1006859795741024356/IMG\_4326.jpg?width=1440\&height=630) ![](<../.gitbook/assets/image (17).png>)
 
 * The coil starts at a horizontal position
 * Current flows into brush one and section X, which is connected to side AB
 * So the direction of current in the coil is in the direction ABCD
 * Forces on sides AB and CD cause the coil to rotate anti-clockwise
 
-![](<../.gitbook/assets/image (1) (1).png>) ![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (20).png>) ![](<../.gitbook/assets/image (4).png>)
 
 * After one-quarter of a revolution, the coil is at the vertical position
 * The current is cut off because of the open circuit created by the gaps in the split-ring commutator
 
-![](<../.gitbook/assets/image (8) (1).png>) ![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (41).png>) ![](<../.gitbook/assets/image (48).png>)
 
 * The coil rotates past the vertical position due to inertia
 * The split ring commutator reconnects with the carbon brushes
