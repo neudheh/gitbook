@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1628352081506-83c43123ed6d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxwZXN0aWNpZGV8ZW58MHx8fHwxNjYyMTc1OTk2&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # KQ3: How can we manage the current and future spread of infectious diseases?
 
 ## Emerging and re-emerging infectious diseases

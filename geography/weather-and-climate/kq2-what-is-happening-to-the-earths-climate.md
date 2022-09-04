@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxnbG9iYWwlMjB3YXJtaW5nfGVufDB8fHx8MTY2MjE3NTM3NQ&ixlib=rb-1.2.1&q=80
+coverY: 85.29702127659574
+---
+
 # KQ2: What is happening to the earth's climate?
 
 ## How has global climate changed?

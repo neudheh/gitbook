@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1595278069441-2cf29f8005a4?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFzdGljc3xlbnwwfHx8fDE2NjIxNzQ5NDE&ixlib=rb-1.2.1&q=80
+coverY: 918.6314893617023
+---
+
 # Macromolecules
 
 * A polymer or a macromolecule is a very large molecule that is made up of a large number of small molecules (monomers)

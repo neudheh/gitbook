@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxyYWlufGVufDB8fHx8MTY2MjE3NTM0NQ&ixlib=rb-1.2.1&q=80
+coverY: 474.8936170212766
+---
+
 # KQ1: Why do different places experience different weather and climate?
 
 * **Weather** is the condition of the atmosphere at a particular place and time. It affects how we live from day to day

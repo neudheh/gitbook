@@ -1,5 +1,6 @@
 ---
 description: 'number 1: your mom'
+coverY: 0
 ---
 
 # To-do list
@@ -22,10 +23,10 @@ Geography
 
 * [x] Coasts
 * [ ] Plate tectonics
-* [ ] Weather and climate
+* [x] Weather and climate
 * [x] Tourism
 * [ ] Food
-* [ ] Health
+* [x] Health
 
 History
 

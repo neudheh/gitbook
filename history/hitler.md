@@ -1,4 +1,10 @@
-# Hitler
+---
+cover: >-
+  https://images.unsplash.com/photo-1600356604120-a282718b29b2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxoaXRsZXJ8ZW58MHx8fHwxNjYyMjYyMTgx&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# 👨✈ Hitler
 
 ## Rise of Hitler
 

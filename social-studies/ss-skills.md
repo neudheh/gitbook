@@ -1,4 +1,10 @@
-# SS Skills
+---
+cover: >-
+  https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxlc3NheXxlbnwwfHx8fDE2NjIyNjI3MDE&ixlib=rb-1.2.1&q=80
+coverY: -485.31063829787234
+---
+
+# 🤓 SS Skills
 
 ## Simple inference <a href="#h.cy05bpw4i1h2" id="h.cy05bpw4i1h2"></a>
 

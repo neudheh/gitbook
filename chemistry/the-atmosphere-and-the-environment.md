@@ -1,5 +1,8 @@
 ---
 description: a breath of fresh air from all the other chem topics
+cover: >-
+  https://images.unsplash.com/photo-1552783160-27bfdb2625d5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxmYWN0b3J5fGVufDB8fHx8MTY2MjEyMjE0Ng&ixlib=rb-1.2.1&q=80
+coverY: 773.8008510638298
 ---
 
 # The atmosphere and the environment

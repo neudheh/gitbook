@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1516199423456-1f1e91b06f25?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxwZXRyb2x8ZW58MHx8fHwxNjYyMTc0ODAy&ixlib=rb-1.2.1&q=80
+coverY: -354.88510638297873
+---
+
 # Crude oil and fuels
 
 * Fuels are substances that burn to produce energy

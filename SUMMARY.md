@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Helpful things](helpful-things/README.md)
-  * [Page 2](helpful-things/page-2.md)
+* [Helpful things](helpful-things.md)
 * [To-do list](to-do-list.md)
 
 ## chemistry
@@ -37,10 +36,9 @@
 
 ## history
 
-* [TOV/LON](history/tov-lon.md)
+* [☮ TOV/LON](history/tov-lon.md)
 * [🪖 Stalin's Soviet union](history/stalins-soviet-union.md)
-* [Hitler](history/hitler.md)
-* [WWII in Europe](history/wwii-in-europe.md)
+* [👨✈ Hitler](history/hitler.md)
 * [🇯🇵 WWII in Asia Pacific](history/wwii-in-asia-pacific.md)
 
 ## physics
@@ -80,4 +78,4 @@
 * [📈 Chapter 9: How do we respond to tensions arising from some economic impacts of globalisation?](social-studies/chapter-9-how-do-we-respond-to-tensions-arising-from-some-economic-impacts-of-globalisation.md)
 * [🏮 Chapter 10: How do we respond to tensions arising from some cultural impacts of globalization?](social-studies/chapter-10-how-do-we-respond-to-tensions-arising-from-some-cultural-impacts-of-globalization.md)
 * [💣 Chapter 11: How do we respond to tensions arising from some security impacts of globalization?](social-studies/chapter-11-how-do-we-respond-to-tensions-arising-from-some-security-impacts-of-globalization.md)
-* [SS Skills](social-studies/ss-skills.md)
+* [🤓 SS Skills](social-studies/ss-skills.md)

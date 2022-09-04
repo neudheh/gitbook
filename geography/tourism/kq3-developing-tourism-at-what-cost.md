@@ -1,5 +1,8 @@
 ---
 description: the genshin impacts of tourism
+cover: >-
+  https://images.unsplash.com/photo-1581242163722-caf37479b25c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxncmVhdCUyMGJhcnJpZXIlMjByZWVmfGVufDB8fHx8MTY2MjE3NTA2Mg&ixlib=rb-1.2.1&q=80
+coverY: -434.2468085106383
 ---
 
 # KQ3: Developing tourism at what cost?

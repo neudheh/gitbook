@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1528194764949-125c374c41af?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxzbHVtc3xlbnwwfHx8fDE2NjIxNzU4OTU&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # KQ1: What are the global patterns of health and diseases?
 
 * Health is a state of complete physical, metal and social well-being. It is not merely the absence of disease or infirmity

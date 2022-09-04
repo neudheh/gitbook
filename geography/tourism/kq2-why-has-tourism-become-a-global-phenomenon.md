@@ -1,5 +1,8 @@
 ---
 description: dont say beat aeroplane in chinese!!
+cover: >-
+  https://images.unsplash.com/photo-1517154868524-c6b5fbd62a1c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxwYWxtJTIwaXNsYW5kfGVufDB8fHx8MTY2MjE3NTAyOA&ixlib=rb-1.2.1&q=80
+coverY: -538.2536170212766
 ---
 
 # KQ2: Why has tourism become a global phenomenon?

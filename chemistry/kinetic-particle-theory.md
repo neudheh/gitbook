@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1570570876354-eba990e91ae1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxraW5ldGljJTIwcGFydGljbGUlMjB0aGVvcnl8ZW58MHx8fHwxNjYyMTc0NzEy&ixlib=rb-1.2.1&q=80
+coverY: 873.1914893617021
+---
+
 # Kinetic Particle Theory
 
 ## States of matter

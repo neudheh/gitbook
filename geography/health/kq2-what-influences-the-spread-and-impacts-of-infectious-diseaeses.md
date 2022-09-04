@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1612574935301-af13ccce9258?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxhbWJ1bGFuY2V8ZW58MHx8fHwxNjYyMTc1OTYw&ixlib=rb-1.2.1&q=80
+coverY: 122.91404255319149
+---
+
 # KQ2: What influences the spread and impacts of infectious diseaeses?
 
 ## Scale at which diseases occur

@@ -1,2 +1,0 @@
-# WWII in Europe
-

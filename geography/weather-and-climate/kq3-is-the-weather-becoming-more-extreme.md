@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1454789476662-53eb23ba5907?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx0eXBob29ufGVufDB8fHx8MTY2MjE3NTQwMA&ixlib=rb-1.2.1&q=80
+coverY: 505.1914893617021
+---
+
 # KQ3: Is the weather becoming more extreme?
 
 ## Characteristics of tropical cyclones

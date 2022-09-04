@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1508253730651-e5ace80a7025?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxhbGNvaG9sfGVufDB8fHx8MTY2MjE3NDkxOQ&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Alcohols and carboxylic acids
 
 ## Alcohol homologous series

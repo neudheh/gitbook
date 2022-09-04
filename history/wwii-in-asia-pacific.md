@@ -102,12 +102,3 @@ coverY: -132.7363184079602
 * Thus Japan sought to exploit this opportunity as it felt that it was able to defeat the weakened forces of the colonial powers.
 * **In order to ensure that it could successfully exploit this opportunity, Japan decided to attack Pearl Harbour so as to eliminate the US Pacific Fleet in order to prevent any potential US interference in its attempts to expand its empire.**
 
-## Defeat of Japan
-
-* US strength
-* Japan's mistakes
-* End of war in Europe
-* Atomic Bomb -> **Hard question: Why was the atomic bomb dropped?**
-
-> "Pretty straight forward" \~ Mr Tan
-
