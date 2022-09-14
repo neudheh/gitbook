@@ -75,7 +75,7 @@ The longer line on a cell is the positive terminal, and the shorter line is the 
 
 ### Drawing V-I graphs or I-V graphs
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>experimental set up for drawing V-I graphs or I-V graphs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>experimental set up for drawing V-I graphs or I-V graphs</p></figcaption></figure>
 
 * The variable resistor allows the resistance to be changes, allowing us to obtain different sets of voltage and current readings
 * With these readings, we can plot our V-I graph or I-V graph

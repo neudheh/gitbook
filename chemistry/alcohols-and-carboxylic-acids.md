@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Alcohols and carboxylic acids
+# 🏭 Alcohols and carboxylic acids
 
 ## Alcohol homologous series
 
@@ -12,7 +12,7 @@ coverY: 0
 * Same functional group of -OH
 * Similar chemical properties
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A functional group is an atom or a group of atoms responsible for the chemical properties of a compound
 * E.g. all alcohols react in similar ways as they contain the same functional group, the hydroxyl (-OH) group

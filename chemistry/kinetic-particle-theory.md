@@ -4,7 +4,7 @@ cover: >-
 coverY: 873.1914893617021
 ---
 
-# Kinetic Particle Theory
+# 🧪 Kinetic Particle Theory
 
 ## States of matter
 
@@ -71,7 +71,7 @@ coverY: 873.1914893617021
 
 #### Melting curve of a substance
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Solid heats up
   * Temperature of solid increases until it reaches its melting point (B)

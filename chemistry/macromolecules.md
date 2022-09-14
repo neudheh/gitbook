@@ -4,7 +4,7 @@ cover: >-
 coverY: 918.6314893617023
 ---
 
-# Macromolecules
+# 🏭 Macromolecules
 
 * A polymer or a macromolecule is a very large molecule that is made up of a large number of small molecules (monomers)
 
@@ -17,7 +17,7 @@ coverY: 918.6314893617023
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -48,7 +48,7 @@ coverY: 918.6314893617023
 * Easier to wash and dry
 * Curtains, parachutes, fishing lines and sleeping bag
 
-## Advantages and disadvantages
+## Advantages and disadvantages of plastics
 
 * Cheap
 * Easily molded into various shapes

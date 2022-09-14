@@ -6,13 +6,19 @@
 
 ## chemistry
 
-* [Kinetic Particle Theory](chemistry/kinetic-particle-theory.md)
-* [Measurement and experimental techniques](chemistry/measurement-and-experimental-techniques.md)
-* [The atmosphere and the environment](chemistry/the-atmosphere-and-the-environment.md)
-* [Crude oil and fuels](chemistry/crude-oil-and-fuels.md)
-* [Alkanes and alkenes](chemistry/alkanes-and-alkenes.md)
-* [Alcohols and carboxylic acids](chemistry/alcohols-and-carboxylic-acids.md)
-* [Macromolecules](chemistry/macromolecules.md)
+* [🧪 Kinetic Particle Theory](chemistry/kinetic-particle-theory.md)
+* [🧪 Measurement and experimental techniques](chemistry/measurement-and-experimental-techniques.md)
+* [🧪 Separation techniques](chemistry/separation-techniques.md)
+* [🧪 Elements, compounds and mixtures](chemistry/elements-compounds-and-mixtures.md)
+* [⚛ Atomic structure](chemistry/atomic-structure.md)
+* [⚛ Ionic, covalent and metallic bonding](chemistry/ionic-covalent-and-metallic-bonding.md)
+* [🧪 Acids and bases](chemistry/acids-and-bases.md)
+* [🏭 The atmosphere and the environment](chemistry/the-atmosphere-and-the-environment.md)
+* [⛽ Crude oil and fuels](chemistry/crude-oil-and-fuels.md)
+* [🏭 Alkanes and alkenes](chemistry/alkanes-and-alkenes.md)
+* [🏭 Alcohols and carboxylic acids](chemistry/alcohols-and-carboxylic-acids.md)
+* [🏭 Macromolecules](chemistry/macromolecules.md)
+* [📜 Practical planning](chemistry/practical-planning.md)
 
 ## geography
 

@@ -4,7 +4,7 @@ cover: >-
 coverY: -354.88510638297873
 ---
 
-# Crude oil and fuels
+# ⛽ Crude oil and fuels
 
 * Fuels are substances that burn to produce energy
 

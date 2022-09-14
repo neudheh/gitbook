@@ -71,10 +71,10 @@ Chemistry
 
 * [x] Chapter 1: Kinetic Particle Theory
 * [x] Chapter 2: Measurement and experimental Techniques
-* [ ] Chapter 3: Separation and purification \*
-* [ ] Chapter 4: Elements, Compounds and Mixtures \*
-* [ ] Chapter 5: Atomic Structure
-* [ ] Chapter 6 and 7: Ionic, Covalent and Metallic bonding
+* [x] Chapter 3: Separation and purification \*
+* [x] Chapter 4: Elements, Compounds and Mixtures \*
+* [x] Chapter 5: Atomic Structure
+* [x] Chapter 6 and 7: Ionic, Covalent and Metallic bonding
 
 _chapters 8, 9 and 10 are skills and you can't study them_
 
@@ -91,7 +91,7 @@ _chapters 8, 9 and 10 are skills and you can't study them_
 * [x] Chapter 21:  Crude Oil and Fuels
 * [x] Chapter 22: Alkanes and Alkenes
 * [x] Chapter 23: Alcohols and Carboxylic acids
-* [ ] Chapter 24: Macromolecules
+* [x] Chapter 24: Macromolecules
 
 EMath
 

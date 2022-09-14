@@ -4,7 +4,7 @@ cover: >-
 coverY: -886.1412765957447
 ---
 
-# Measurement and experimental techniques
+# 🧪 Measurement and experimental techniques
 
 ## Qualitative VS Quantitative
 

@@ -4,7 +4,7 @@ cover: >-
 coverY: -1725.4399999999998
 ---
 
-# Alkanes and alkenes
+# 🏭 Alkanes and alkenes
 
 ## Organic compounds
 
@@ -87,7 +87,7 @@ coverY: -1725.4399999999998
 * Addition reactions are reactions in which molecules of another element or compound add to the C=C bond of the unsaturated organic compound to form a saturated new compound
 
 {% hint style="info" %}
-add the new element where the double bond was<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
+add the new element where the double bond was<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 #### Hydrogen
