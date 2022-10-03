@@ -70,6 +70,7 @@
 * [🧲 Magnetism](physics/magnetism.md)
 * [🧲 Electromagnetism](physics/electromagnetism.md)
 * [🧲 Electromagnetic induction](physics/electromagnetic-induction.md)
+* [🧪 Practical](physics/practical.md)
 
 ## social studies
 
