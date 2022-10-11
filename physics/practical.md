@@ -54,12 +54,12 @@
 ### Light
 
 * The glass block with bevelled edges makes it hard to replace on the exact position each time
-* Th e missior is very light and sifts easily, casuing errors in the angle of inicdence and hence emergent ray
-* The point is not exactly at the glasss b;ock due to the thickness of the pin
+* The mirror is very light and shifts easily, causing errors in the angle of incidence and hence emergent ray
+* The point is not exactly at the glass block due to the thickness of the pin
 
 ### Electricity
 
 * The wire becomes hot after some time and the value of the current mau be different as the resistance increases when temperature increases
 * The wires are not of uniform thickness, and current and voltage taken at each point might not reflect the actual values
-* There are kinks in the wire (hehe) and it cannot be straightend on the ruler, causing some inaccuracies in the readings of length
+* There are kinks in the wire (hehe) and it cannot be straightened on the ruler, causing some inaccuracies in the readings of length
 * Contact of jockey is not consistent causing some variations in the reading of current

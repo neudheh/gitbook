@@ -1,4 +1,7 @@
 ---
+description: >-
+  what if you and me were solid particles and we were held together by strong
+  forces of attractions and close to each other
 cover: >-
   https://images.unsplash.com/photo-1570570876354-eba990e91ae1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxraW5ldGljJTIwcGFydGljbGUlMjB0aGVvcnl8ZW58MHx8fHwxNjYyMTc0NzEy&ixlib=rb-1.2.1&q=80
 coverY: 873.1914893617021
@@ -6,184 +9,188 @@ coverY: 873.1914893617021
 
 # 🧪 Kinetic Particle Theory
 
-## States of matter
+* The kinetic particle theory tells us that everything around us is made up of very tiny particles that are in constant and random motion
 
-* Matter is anything that has mass and occupies space
-* Exists as a solid liquid or gas, known as states of matter
-* Changes in states of matter is the result of energy being gained or lost from the surroundings
+## States of matter
 
 | Solid                | Liquid               | Gas               |
 | -------------------- | -------------------- | ----------------- |
-| Fixed shape          | No Fixed shape       | No fixed shape    |
-| Fixed volume         | Fixed volume         | No Fixed volume   |
+| Fixed shape          | No fixed shape       | No fixed shape    |
+| Fixed volume         | Fixed volume         | No fixed volume   |
 | Cannot be compressed | Cannot be compressed | Can be compressed |
-
-## Kinetic particle theory
-
-* The kinetic particle theory states that all matter is made up of tiny particles in constant and random motion
 
 ### Solids
 
-* Its particles are closely packed in an orderly arrangement together
-* Particles are held together by very strong forces of attraction
-* Particles only have enough kinetic energy to only vibrate and rotate in fixed positions
-* Particles cannot move about freely
-* Hence they have a fixed shape
-* Particles are already very close to each other -> cannot be compressed -> fixed volumr
+* Fixed shape as particles
+  * Are closely packed in an orderly manner
+  * Are held together by strong forces of attraction
+  * Have enough kinetic energy to only vibrate and rotate about their fixed positions
+  * Cannot move about freely
+* Fixed volume
+  * Cannot be compressed as its particles are already very close to one another -> Fixed volume
 
-### Liquids
+### Liquid
 
-* Its particles are arranged in a disorderly manner
-* Particles have weaker forces of attraction than solids
-* Particles have more kinetic energy than solid particles of the same substance
-* Particles can move about freely throughout the liquid
-* Hence, it does not have a fixed shape
-* Particles can roll and slide past each other -> liquids can flow
-* Even though particles are spaced further apart than that of solids, they are still packed quite closely -> cannot be compressed -> fixed volume
+* No fixed shape as particles
+  * Are arranged in a disorderly manner
+  * have weaker forces of attraction than solids
+  * have more kinetic energy than particles of the same substances in solid state and not held in fixed positions
+  * Can move freely throughout the liquid
+* Fixed volume
+  * Particles are further away from one another than that of a solid, but are still packed quite closely together, and cannot be compressed -> Fixed volume
 
-### Gases
+### Gas
 
-* Particles are spread far apart form one another
-* Particles have weaker forces of attraction than liquids
-* Particles have a lot kinetic energy and are not held in fixed positions
-* Particles can move about rapidly in any direction
-* Hence, it does not have a fixed shape
-* A lot of space between particles compared to liquids and solids -> easily compressed when pressure is applied -> no fixed volume
+* No fixed shape as particles
+  * Are spread far apart from one another
+  * Have weaker forces of attraction than particles of a liquid
+  * Have a lot of kinetic energy and are not held in fixed positions
+  * Can move about rapidly in any direction
+* No fixed volume
+  * Particles have a lot more space between them as compared to a solid or a liquid
+  * The large space between the particles allows the gas to be easily compressed when pressure is applied
 
-## Changes in state of matter and kinetic particle theory
-
-* Particles of matter are in constant random motion -> they have kinetic energy
-* Gases have the most kinetic energy, liquids have more kinetic energy than solids, and solids have the least kinetic energy
-* When matter is heated or cooled, the energy absorbs or released changes the kinetic energy of the particles, thus there is a change in the state of matter
-* Changes are reversible
+## Changes in the state of matter and the kinetic particle theory
 
 ### Melting
 
-* Melting is the process where a substance changes from a solid to a liquid
-* Melting point is the temperature at which a solid becomes a liquid
-* Heat energy is absorbed by the solid particles, which is converted to kinetic energy, causing the particles to vibrate faster in their fixed positions
-* When the temperature is high enough, the particles have enough kinetic energy to overcome the forces of attraction between them, and start to break away from their fixed position
-* Particles are no longer in their fixed positions, and the substance is now a liquid. Particles are free to move about throughout the liquid
-
-#### Set-up to observe the melting point of a substance
-
-<figure><img src="https://lh6.googleusercontent.com/Ypy5dTzfNCvunZ2Ofn8xltdmiKSyurxeACjmv8MxcNMKQYw30pLZygusoU0JK9iyy10Ee1F2y5fPL9YjAhOWx_RlgQhKgIGph0Sv_UP_2E93JeonQ031FyHD0BytoQ2NCocFWylqdKv53oW2PKEPNg" alt=""><figcaption></figcaption></figure>
-
-#### Melting curve of a substance
+* Meling is the process by which a substance changes from a solid to a liquid
+* The temperature at which a solid becomes a liquid is called the melting point
+* Different substances have different melting points
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Solid heats up
-  * Temperature of solid increases until it reaches its melting point (B)
+  * The temperature of the solid increases until it reaches its melting point, B
+  * Heat energy is absorbed by the particles of the solid, which is converted into kinetic energy
+  * The particles start to vibrate faster about their fixed positions
+  * At B, it starts to melt
 * B-C: Solid melts
   * During melting, the temperature of the solid does not rise even though heating continues
-  * Energy taken in by particles of the solid are used to overcome the forces of attraction holding the particles in fixed position
+  * Heat energy taken in by particles of the solid is used to overcome the forces of attraction holding the particles in fixed positions
+  * The particles begin to break away from their fixed positions
   * A mixture of solid and liquid exists at this stage
 * C-D: Liquid heats up
-  * At C, all the solids have melted and the temperature of the liquid continues to rise as heating continues
+  * The particles are no longer in their fixed positions
+  * At C, all of the solid has melted
+  * The particles are no longer in their fixed positions
+  * The temperature of the liquid continues to rise as heating continues
 
 ### Freezing
 
-* Freezing is the process in which a substance changes from a liquid to a solid
-* Freezing point is the temperature where the liquid becomes a solid
-* Energy is given out by the liquid particles, and the particles lose kinetic energy and begin to move more slowly
-* When the temperature is low enough, the particles no longer have enough energy to move freely, and start to settle in their fixed position
-* All the particles have settled into their fixed positions, and the substance is now a solid. The particles can only vibrate about their fixed positions
+* Freezing is a process by which a substance changes from a liquid to a solid
+* The temperature at which a liquid becomes a solid is called its freezing point
+* A pure substance freezes at the same temperature
 
-#### Cooling curve of freezing
-
-<figure><img src="../.gitbook/assets/image6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cooling_curve.png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Liquid cools
-  * The temperature of the substance drops till it has reached its freezing point (B0
-  * At B, it starts to freeze
+  * Energy is given out by the particles of the liquid
+  * The particles lose kinetic energy and begin to move more slowly
+  * The temperature of the liquid drops until it reaches freezing point, B
+  * At B, the liquid starts to freeze
 * B-C: Liquid freezes
-  * During freezing, the temperature of the liquid remains constant even though cooling continues
-  * The heat energy is released to the surroundings as the particles are attracted to each other to form a solid
-  * A mixture of solid and liquid exist at this stage
+  * When the temperature is low enough, the particles no longer have enough energy to move freely
+  * The particles start to settle into their fixed positions
+  * During freezing, the temperature of the liquid remains the same even though cooling continues
+  * Heat energy is released as the particles of the liquid are attracted to each other to form a solid. This heat energy is given out to the surroundings
+  * A mixture of solid and liquid exists at this stage
 * C-D: Solid cools
-  * At D, all of the liquid substance has become solid and the temperature drops as cooling continues
+  * At point C, all of the liquid has solidified
+  * The temperature of the solid drops as cooling continues
 
 ### Boiling
 
-* Boiling is the process in which a substance changes form a liquid to a gas at the boiling temperature of the substance
-* Boiling point is the temperature at which a liquid boils
-* Heat energy is absorbed by the particles of the liquid, and the heat energy is converted to kinetic energy and the particles start to move faster as temperature rises
-* When the temperature is high enough, the particles have enough energy to overcome the forces of attraction holding them together
-* The particles are spread far apart and the substance is now a gas and it can move about in any direction
+* Boiling the process by which a substance changes from a liquid to a gas at the boiling temperature of the substance
+* The temperature at which a liquid boils is called its boiling point
+* Different substance have different boiling points
 
-#### Set-up to observe the boiling point of a substance
-
-<figure><img src="../.gitbook/assets/image4.jpg" alt=""><figcaption></figcaption></figure>
-
-#### Heating curve of boiling
-
-<figure><img src="../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/heating_curve.png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Liquid heats up
-  * The temperature of the liquid particle increases until it reaches the boiling point (B)
-  * At B, the substance starts to boil
-* B-C: Liquid boils
-  * During boiling, there is no change in temperature although the liquid is still being heated
-  * Heat energy absorbed here is being used to overcome the forces of attraction
-  * A mixture of liquid and gas exist here
+  * Heat energy is absorbed by particles of the liquid
+  * The heat energy is converted to kinetic energy
+  * The particles start to move faster as temperature rises
+  * The temperature of the liquid increases until it reaches its boiling point, B
+  * At B, The liquid starts to boil
+* B-C: Liquid starts to boil
+  * When the temperature is high enough, the particles have enough energy to overcome the forces of attraction holding them together
+  * During boiling, the temperature remains the same although heating continues
+  * Heat energy taken in by the particles of the liquid is used to overcome the forces of attraction between the particles
+  * A mixture of liquid and solid exist at this stage
 * C-D: Gas heats up
-  * At C, all the liquid has boiled and the temperature of the gas increases as heating continues
-* Observation during boiling: Bubbles of gas are seen
-  * These are formed when a liquid changes into a gas and also consists of other gases dissolved in the liquid
-  * They rise up to the surface and escape into the air
+  * At C, all of the liquid has boiled
+  * The temperature of the gas rises as heating continues
+* Bubbles of gas are seen when a liquid boils
+  * They are formed when the liquid changes to a gas
+  * They also consist of other gases dissolved in the liquid
+  * The bubbles rise to the surface and escape into the air
 
 ### Evaporation
 
 * Evaporation is the process by which a liquid changes to a gas at a temperature lower than its boiling point
-* Occurs only because some particles as the surface of the liquid have enough energy to evaporate as a gas
-* Liquids that evaporate quickly at room temperature are known as volatile liquids, and have boiling points just above room temperature
+* Evaporation occurs because some particles have enough energy to escape as a gas from the surface of the liquid
+* Liquids that evaporate quickly at room temperature are called volatile liquids, and they usually have boiling points just above room temperature
 
-#### Differences between boiling and evaporation
+#### Differences between evaporation and boiling
 
-| Boiling                      | Evaporation                                                           |
-| ---------------------------- | --------------------------------------------------------------------- |
-| Only occurs at boiling point | Occurs at any temperature blow boiling point and above freezing point |
-| Occurs throughout the liquid | Occurs only at the surface of the liquid                              |
-| Occurs rapidly               | Occurs slowly                                                         |
+| Evaporation                                | Boiling                      |
+| ------------------------------------------ | ---------------------------- |
+| Occurs at temperatures below boiling point | Occurs only at boiling point |
+| Occurs only at the surface of the liquid   | Occurs throughout the liquid |
+| Occurs slowly                              | Occurs rapidly               |
 
 ### Condensation
 
-* Condensation is the process in which a gas changes to a liquid
-* When a gaseous substance touches a cooler surface, condensation occurs and liquid is obtained
-* Heat energy is given out during condensation by gas particles&#x20;
-* As the temperature drops, the gas particles lose kinetic energy and move more slowly
-* They move slowly enough to form a liquid
+* Condensation is the process by which a gas changes to a solid
+* When water vapor touches a cold surface, condensation occurs and liquid water is obtained
+* Heat energy is given out by the gas particles during condensation
+* As the temperature drops, the gas particles lose energy and move more slowly
+* Eventually, the particles becomes slow enough to change to a liquid
 
 ### Sublimation
 
-* Sublimation is the process where a solid changes directly into a gas without going through the liquid state
-* Occurs because particles at the surface of the solid have enough energy to break away form the solid and escape as a gas
-* Useful as&#x20;
-  * Dry ice is used for industrial refrigeration and transporting frozen food
-  * Especially good for refrigerating food as it keeps them very cold and changes directly into a gas without leaving any liquid behind
+* The process by which a solid changes directly to a gas without going through the liquid state is called sublimation
+* Sublimation occurs because particles at the surface of the solid have enough energy to break away from the solid and escape as a gas
+* Dry ice is sued for industrial refrigeration and transferring frozen food as it keeps them very cold and changes directly to a gas without leaving any liquid behind
 
 ## Diffusion
 
-* Diffusion is the net movement of particle form a region of high concentration to a region of lower concentration
-* Provides evidence for the kinetic particle theory
-* Rate of diffusion depends on the molecular mass, the higher the mass, the slower the rate of diffusion
-  * In a tube with cotton wool with concentrated ammonia and hydrochloric acid, there will be a white ring close to the hydrochloric acid as ammonia has a lower molecular mass than hydrochloric acid
-* Rate of diffusion also depends on temperature, the higher the temperature, the higher the rate of diffusion
-* Diffusion stops when the two regions are homogeneous, and the particles are evenly distributed
+* Diffusion is the process whereby particles move form a region of higher concentration to a region of lower concentration, until both regions are homogeneous/ particles are uniformly distributed
 
-### Diffusion chamber
+### Molecular mass
 
-<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+* Gasses with a lower molecular mass will diffuse faster than those with a higher molecular mass
 
-* In a diffuson chamber of gas Z which is less dense (due to lower Mr) than oxygen, Gas Z will diffuse into the prorous pot faster than oxygen diffusing out -> there is a higher amount of gas in the proous pot -> higher pressure in the porous pot -> pushes the water level down and the level of X increases
-* In a diffusion chamber of gas Z is more dense (due to higher Mr) than oxygen, oxygen will diffuse out of the porous pot faster than gas Z diffusing in -> there is a lower amount of gas in the porous pot -> lower pressure in the porous pot -> level of X decreases
+<figure><img src="../.gitbook/assets/diffusion_mr.png" alt=""><figcaption></figcaption></figure>
+
+* When ammonia gas from the concentrated ammonia solution and hydrogen chloride gas from the hydrochloric acid react, a white ring of ammonium chloride is formed
+* Ammonia has a lower Mr of 17, while hydrogen chloride has a higher Mr, thus ammonia will have a higher rate of diffusion than hydrogen chloride, and will diffuse faster than hydrogen chloride
+* The white ring will then be formed closer to the hydrochloric acid
+
+#### Diffusion chamber
+
+<figure><img src="../.gitbook/assets/poruous_pot.png" alt=""><figcaption></figcaption></figure>
+
+* In a diffusion chamber, when gas Z is less dense (due to lower Mr) than oxygen, gas Z will diffuse into the porous pot faster than the oxygen diffusing out -> higher amount of gas inside the porous pot ->higher pressure in the porous pot ->  pushes the water level down and the level of X increases
+* In a diffusion chamber, when gas Z is more dense (due to higher Mr) than oxygen, oxygen will diffuse out of the porous pot faster than gaz Z diffusing in -> there is a lower amount of gas in the porous pot -> lower pressure in the porous pot -> Level of X increases
+
+### Temperature
+
+* The higher the temperature, the higher the rate of diffusion
+* This is because particles gain more energy as temperature increases, and can move faster, increasing the rate of diffusion
 
 ## Expansion and contraction
 
-* When a substance is heated, the particles move faster and further apart, the space inbetween particles increases and therefore the substance expands
-* When a substance is cooled, the particles move slower and close together, the space inbetween particles deacreases, thereforce the substance contracts
+* When a substance is heated
+  * the particles move faster and further apart
+  * The space in between particles increases
+  * Therefore the substance expands
+* When a substance is cooled
+  * The particles move slower and closer together
+  * The space in between particles decreases
+  * Therefore the substance contracts
 
 ## Density
 
-* For the smae volume, gasses have th least amount of particle than solids or liquids, therefore it ahs the lowest density
+* For the same volume, gas has the least amount of particles than solid or liquid, therefore it has the lowest density

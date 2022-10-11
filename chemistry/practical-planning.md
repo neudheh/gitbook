@@ -1,114 +1,154 @@
 # 📜 Practical planning
 
-## Format
+## General format
 
 * Method/ Approach (embed in the procedure)
-  * Describe how data/ results can be obtained and how your readings are taken
-* Constant, independent and dependent variables (embed in the procedure)
-* Apparatus and chemicals (embed in the procedure)
-  * State the specific quantity and the concentration, which is in excess
+  * Describe how the data/ results can be obtained and how your readings are taken
+* Constant variables and variables to be changes (embed in the procedure
+* Apparatus and chemicals
+  * State the specific quantity and concentration, and what chemicals are in excess
+  * e.g. 20cm³ of 1 mol/dm³ of $$HCl$$, 2g of $$CuCO_3$$​, excess magnesium
 * Procedure
-  * Describe step-by-step instructions, and include diagrams of the investigation set-up if necessary
+  * Describe step-by step instructions, and include diagrams of the set-up if necessary
 * Results
-  * Explain how data collected is processed (Must link back to the aim)
+  * Explain how data collected are process
+  * Must link back to the aim
 
-## Speed of reaction (table, temperature)
+## Speed of reaction (collection of gas)
 
-1. Set up the apparatus as shown in the figure
-2. Measure 25.0$$cm^3$$ of  1$$mol/dm^3$$ of ammonium peroxydisulfate (​$$(NH_4)_2S_2O_8$$) into a boiling tube. Measure the temperature of $$c$$​ with a thermometer and record this value in a table
-3. Using another measuring cylinder to transfer $$25.0cm^3$$ of 1$$mol/dm^3$$​ aqueous iodide ions and add it to the boiling tube containing 25.0$$cm^3$$of ​1$$mol/dm^3$$​ of $$(NH_4)_2S_2O_8$$ and add a few drops of starch solution (indicator) and start timing immediately. Gently stir the mixture in the boiling tube with the thermometer and record the time taken for a blue-black solution to form (color of indicator)
-4. Wash the boiling tube and place another 25.0$$cm^3$$ of 1 $$mol/dm^3 (NH_4)_2S_2O_8$$in it. Place the boiling tube in a beaker of water and heat the beaker with a bunsen burner
-5. When the temperature of $$(NH_4)_2S_2O_8$$ reaches 80°C, remove the boiling tube form the beaker. Wait half a minute, measure the temperature and record the value. Then add 25$$cm^3$$​ of 1 $$mol/dm^3$$​ aqueous iodide ions and a few drops of starch solution (indicator) and start timing immediately. Record the time taken for a blue-black solution to form
-6. Repeat steps 3-4 but heat the $$(NH_4)_2S_2O_8$$ to about 70°C before removing the boiling tube from the beaker. Record the time taken for a blue-black solution to form
-7. Repeat steps 3-4 by heating the boiling tube containing the $$(NH_4)_2S_2O_8$$  to 3 other temperatures, and measure the temperatures half a minute after the tube is removed from the hot water. Record all your values in a table
+<figure><img src="../.gitbook/assets/sor_gas.png" alt=""><figcaption></figcaption></figure>
 
-(link to results)
+1. Set up the apparatus as shown and add 50cm³ of 1 mol/dm³ of aqueous hydrogen peroxide in the conical flask and stopper it
+2. Measure and record the volume of oxygen gas produced in 60s
+3. Repeat the experiment using 50cm³ of 1 mol/dm³ aqueous hydrogen peroxide and 1g of X as the catalyst. Measure and record the volume of oxygen gas produced in 60s
+4. The experiment with the catalyst should produce a larger volume of gas in 60s
+5. Filter the remaining mixture and dry the X used between filter papers. Weigh the mass of X to check its mass
+6. The mass of X powder should be 1g as it so not consumed in the reaction
 
-* From the table, refer to the data obtained to determine if an increase in temperature of $$(NH_4)_2S_2O_8$$ by 10°C will cause the time taken for the blue black solution to be formed
+## Speed of reaction (temperature)
 
-## Speed of reaction (catalyst, using gas syringe and conical flask)
+1. Using a measuring cylinder, transfer 20cm³ of ammonium peroxodisulfate into a boiling tube. Measure the temperature of the ammonium peroxodisulfate with a thermometer and record this value in a table
+2. Using another measuring cylinder, transfer 20cm³ of 1 mol/dm³ aqueous iodide ions and add it into the boiling tube containing 20cm³ of 1 mol/dm³ ammonium peroxodisulfate and add a few drops of starch solution and start timing immediately. Record the time taken for a blue-black solution to form
+3. Wash the boiling tube and place another 20cm³ of 1 mol/dm³ ammonium peroxodisulfate in it. Place the boiling tube in a beaker of water, and heat the beaker with a bunsen burner
+4. When the temperature of the ammonium peroxodisulfate reaches 80°C, remove the boiling tube from the beaker. Wait half a minute, measure the temperature and record this value. Then add 20cm³ of 1 mol/dm³ aqueous iodide ions and a few drops of starch solution. Record the time taken for a blue-black solution to form
+5. Repeat steps 3-4 but heat the ammonium peroxodisulfate to about 70°C before removing the boiling tube form the beaker. Record the time taken for a blue-black solution to form
+6. Repeat septs 3-4 by heating the boiling tube containing ammonium peroxodisulfate to 3 other temperatures. It is not necessary to heat the ammonium peroxodisulfate to these exact temperature, but the correct temperature must be measured half a minute after the tube is removed from the water. Record your values in the table below
 
-* Set up the reaction as shown in the diagram
-* Add 50$$cm^3$$​ of 1$$mol/dm^3$$ aqueous hydrogen peroxide in the conical flask and stopper it
-* Measure and record the volume of oxygen gas produced in 60s
-* The experiment with the catalyst used should produce a larger volume of gas in 60 seconds
-* Filter the resulting mixture and dry the X (catalyst) used between filter papers, and wight the mass of X to check its mass
-* The mass of X should be 1 gram as it is not consumed in the reaction
+| Temperatrure of ammonium peroxodisulfate/ °C | Time taken for blue-black solution to form/ s |
+| -------------------------------------------- | --------------------------------------------- |
+| 80.0                                         |                                               |
+| 70.0                                         |                                               |
+| 60.0                                         |                                               |
+| 50.0                                         |                                               |
+| 30.0                                         |                                               |
 
-## Finding Mr of acids (Gas syringe and conical flask)
+From the table, refer to the data obtained to determine if an increases in temperature of ammonium peroxodisulfate by 10°C will cause the time taken for the blue-black solution to be halved
 
-* Set up the apparatus as shown in the diagram
-* Measure 25.0$$cm^3$$ of HCl using a pipette/ measuring cylinder and transfer it into the conical flask
-* Add $$Na_2CO_3$$in excess to the conical flask and stopper it quickly
-* Measure and record the volume of the volume of carbon dioxide is constant
-* Calculate the number of moles of carbon dioxide gas suing the formula: number of moles = volume of gas / 24 000 $$cm^3$$
-* Using the mole ratio, the number of moles of HCl to $$CO_2$$​ (2:1), calculate the number of moles of HCl using the formula: number of moles of CO$$_2$$​X 2
-* Hence, calculate the concentration of HCl used using the formula: number of moles of HCl/ volume of HCl used in dm$$^3$$
+## Acids (Gas collection)
 
-## Salts (Finding concentration of ions)
+<figure><img src="../.gitbook/assets/sor_gas.png" alt=""><figcaption></figcaption></figure>
 
-* Using a pipette/ measuring cylinder, measure out 25.0 $$cm^3$$ of the aqueous solution containing Cl- ions
-* Add an excess of aqueous silver nitrate to the solution
-* Filter the mixture and collect the residue of silver chloride (AgCl)
-* Wash the residue of silver chloride and dry between sheets of filter paper
-* Weigh the dried silver chloride
-* Calculate the number of moles of silver chloride using the formula: number of moles of AgCl = mass of AgCl / Mr of AgCl
-* Using the mole ratio, the numbe ro f moles of chloride ions to silver chloride is 1:1 based on the equation Ag$$^+$$(aq) + Cl$$^-$$(aq) -> AgCl (ss)
-* Calculate the concentration of chloride ions present in the solution in mol/dm$$^3$$ using the formula: no of moles / volume of chloride solution
+1. Set up the apparatus as shown
+2. Measure 25.0cm³ of hydrochloric acid using a pipette/ measuring cylinder and transfer it into a conical flask
+3. Add sodium carbonate in excess to the conical flask and stopper it quickly
+4. Measure and record the volume of the carbon dioxide gas using the formula: $$number \char32 of \char32 moles = \frac{volume \char32 of \char32 gas}{24000cm^3}$$
+5. Using the mole ratio of the number of moles of $$HCl$$​ to $$CO_2$$​ (2:1), calculate the number of moles of hydrochloric acid using the formula:$$number \char32 of \char32 moles \char32 of \char32 HCl = number \char32 of \char32 moles \char32 of \char32 CO_2  \times 2$$&#x20;
+6. Hence calculate the concentration of the hydrochloric acid using the formula: $$\frac {number \char32 of \char32 moles \char32 of \char32 HCl}{25  \div  1000}$$
 
-## Metals (reactivity of metals)
+## QA (mole concept)
 
-* Set up the apparatus as shown in the diagram above
-* Using an electronic balance, weigh 1g of powdered $$MgCO_3$$​and transfer it into a dry boiling tube
-* Stopper the boiling tube with the rubber bung attached to a graduated gas syringe
-* Heat the metal carbonate strongly and start the stopwatch immediately
-* Record the time taken for 30 cm$$^3$$of  carbon dioxide gas collected OR the volume of gas collected in 30s​
-* Repeat the experiment to obtain an average
-* Repeat steps 2-6 with powdered copper(II) carbonate and zinc carbonate
-* The shorter the time taken for 30 cm $$^3$$​of gas to be collected, the less stable the metal carbonate is to heat, the less reactive the metal OR the greater the volume of carbon dioxide gas collected in 30s, the less reactive the metal
+1. Using a pipette/ measuring cylinder, measure out 25.0cm³ of the aqueous solution containing $$Cl^-$$ ions
+2. Add an excess of aqueous silver nitrate to the solution
+3. Filter and collect the residue of silver chloride ($$AgCl$$)
+4. Wash the residue with a little cold distilled water
+5. Dry the silver chloride between pieces of filter papers
+6. Weigh the dried silver chloride
+7. Calculate the number of moles of silver chloride using the formula: $$number \char32 of \char32 moles \char32 of \char32 AgCl = \frac{mass \char32 of \char32 AgCl}{Mr \char32 of \char32 AgCl}$$
+8. Using the mole ratio, the number of moles of chloride ions to silver chloride (1:1) based on the equation $$Ag^+(aq) + Cl^- (aq) \rightarrow AgCl(s)$$​
+9. Calculate the concentration of chloride ions present in the solution in mol/ dm³ using the formula $$concentration = \frac{number \char32 of \char32 moles}{volume \char32 of \char32 chloride \char32 solution}$$
 
-## Redox
+## Metals (decomposition of metal carbonate)
 
-* Fill the burette with $$KMnO_4$$​(aq)
-* Pipette 25.0 $$cm^3$$ of $$H_2O_2$$​ into a conical flask, add in a test tube full of $$H_2SO_4$$​ and titrate it with $$KMnO_4$$ (aq)
-* Titrate until one drop of $$KMnO_4$$ caused the solution to produce a permanent pink colour​
-* Record the initial and final burette readings and calculate the volume of $$KMnO_4$$​(aq) required in cm$$^3$$​
-* Repeat the titration until consistent results is achieved
-* Calculate the concentration of potassium magnate (VII) using the formula: Conc of $$KMnO_4$$​= (2 x known conc of $$H_2O_2$$​x 25) / (5 x volume of $$KMnO_4$$ used in step 4)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## Metals (obtain a pure sample of carbon)
+1. Set up the apparatus as shown in the diagram above
+2. Using an electronic balance, weigh 1g of powdered $$MgCO_3$$​and transfer it into a dry boiling tube
+3. Stopper the boiling tube with the rubber bung attached to a graduated gas syringe
+4. Heat the metal carbonate strongly and start the stopwatch immediately
+5. Record the time taken for 30cm³ of carbon dioxide gas to be collected in the gas syringe/ record the volume of gas collected in 30s
+6. Repeat the experiment to obtain an average&#x20;
+7. Repeat steps 2-6 with powdered copper (II) carbonate and zinc carbonate
+8. The shorter the time taken for 30cm³ of carbon dioxide gas to be collected, the less stable the metal carbonate is to heat, the less reactive the metal/ the greater the volume of carbon dioxide gas collected in 30s, the less reactive the metal
 
-* Add an excess of dilute sulfuric aid to the mixture in a beaker
-* Stir using a glass rod/ heat the mixture over a bunsen burner until no more solid can dissolve
-* Filter the resulting mixture using a filter funnel with filter paper and conical flask
-* The residue is a black solid (carbon) and the filtrate is a green solution (iron (II) sultate)
-* Wash the black solid (carbon) using deionized/ distilled water
-* Dry the black solid (carbon) between sheets of filter paper
+## Redox (Titration)
 
-## Acids (Purity of a sample)\\
+1. Fill the burette with $$KMnO_4 (aq)$$
+2. Pipette 25.0 cm³ of $$H_2O_2 (aq)$$ into a conical flask, add in a test-tube full of $$H_2SO_4$$​, and tritate it with $$KMnO_4 (aq)$$
+3. Titrate until one drop of $$KMnO_4$$​ causes the solution to produce a permanent pink colour
+4. Record the initial and final burette readings and calculate the volume of $$KMnO_4 (aq)$$ required in cm³($$final \char32 - initial \char32 burette \char32 reading$$)
+5. Repeat the titration until consistent results are achieved
+6. Calculate the concentration of potassium manganate (VII) using the formula:\
+   Mole ratio: $$2KMnO_4 = 5 H_2O_2$$​\
+   $$\frac{conc \char32 of \char32 KMNO_4 \times Volume \char32 of KMnO_4 \char32 obtained \char32 in \char32 step \char32 4}{Known \char32 conc \char32 of \char32 H_2O_2 \times 25cm^3}= \frac{2}{5}$$\
+   $$conc \char32 of \char32 KMNO_4 = \frac{2 \times Known \char32 conc \char32 of \char32 H_2O_2 \times 25cm^3}{5 \times Volume \char32 of KMnO_4 \char32 obtained \char32 in \char32 step \char32 4}$$
 
-* Weigh 1g of the mixture using an electronic balance
-* Add excess warm sulfuric acid to the mixture and stir
-* Filter the mixture, wash the carbon residue and dry it
-* Reweigh the mixture and calculate the percentage by using the formula $$\frac{1g -mass}{1g} \times 100%$$
+{% hint style="warning" %}
+For any titration planning question, DO NOT USE UNIVERSAL INDICATOR
 
-## Energy changes
+This is because it is hard to determine the end-point
 
-* Measure 30$$cm^3$$ of distilled water and place it in a styrofoam cup nested on a beaker
-* Measure the initial temperature of the water
-* Weigh out 5g of salt X with an electronic balance
-* Add the 5g of salt X to the water and measure the lowest temperature reached
-* Repeat the mixture with salt Y and salt Z
-* Find the temperature drop by taking the difference between the final and initial temperature
-* The salt which gave the largest drop in temperature is the one which produces the greatest endothermic change when dissolved in water
+Use screened methyl orange/ thymol blue
+{% endhint %}
 
-## Metals (empirical formula)
+## Metals (Separation techniques)
 
-* Weight the 20cm iron oxide using the electronic balance and record it as the initial mass
-* Place the oxide in a crucible
-* Strongly heat the oxide for 2 mins
-* Weigh the oxide and record its mass
-* Continue to heat the oxide and wight it until its mass becomes constant
-* Record its final mass, which is the mass of iron
-* The mass gain indicates the mas of oxygen gained to form the oxide
-* Find the empirical formula of the iron oxide by finding the simplest mole ratio of the iron and oxygen
+1. Add excess dilute nitric/ sulfuric acid/ hydrochloric acid to the mixture in a beaker
+2. Stir using a glass rod/ heat the mixture over a bunsen burner until no more acid can dissolve
+3. Filter the resulting mixture using a filter funnel with filter paper and a conical flask
+4. The residue is a black solid (carbon) and the filtrate is a green solution (Iron (II) nitrate/ sulfate/ chloride solution)
+5. Wash the black solid (carbon) using deionized/ distilled water
+6. Dry the black solid (carbon) between pieces of filter paper
+
+## Acids (Separation techniques)
+
+1. Weigh 1g of mixture using an electronic balance
+2. Add excess warm sulfuric acid to the mixture and stir
+3. Filter the mixture, was the carbon residue and dry it
+4. Reweigh the mixture and calculate the percentage by using the formula: $$\frac{1g - mass \char32 of \char32 C}{1g} \times 100 \%$$
+
+## Mass of a water in a hydrated salt (carbonate)
+
+### Method 1
+
+1. Add a known mass of the sample to an excess of nitric acid. Collect and measure the volume of carbon dioxide produced
+2. Using molar volume of gas, calculate the number of moles of gas. Hence the number of moles of ​$$K_2CO_3$$​ can be found
+3. Mass of $$K_2CO_3$$​ can be found
+4. Subtract mass of $$K_2CO_3$$​ from the known mass of the sample, divide the mass of water by the known mass of sample S to find the percentage by mass
+
+### Method 2
+
+1. Heat the known mass of S until there is no change in mass (Only can do on group I salts as they are very thermally stable and do not decompose on heating)
+2. Find the mass of $$K_2CO_3$$​
+3. Subtract the mass of $$K_2CO_3$$​ from the known mass of the sample, divide the mass of water by the known mass of sample S to find the percentage by mass
+
+## Empirical formula of Iron oxide
+
+1. Weigh the 20cm iron oxide using an electronic balance. Record as the initial mass
+2. Place the oxide in a crucible
+3. Strongly heat the oxide for 2 minutes
+4. Weigh the oxide and record its mass
+5. Continue to heat the oxide and weigh unless its mass becomes constant
+6. Record the final mass, which is the mass of iron oxide
+7. The mass gained indicates the mass of oxygen gained to form the oxide
+8. Find the empirical formula of iron oxide by fining the simplest mole ratio of the iron and oxygen
+
+## Endothermic reactions
+
+1. Measure 30cm³ of distilled water and place it in a styrofoam cup nested on a beaker
+2. Measure the initial temperature of the water
+3. Weigh out 5g of salt X with an electronic balance
+4. Add the 5g of salt X to the water and measure the lowest temperature react
+5. Repeat the procedure with salt Y and Z
+6. Find the temperature drop by taking the difference between the final and initial temperature
+7. The salt which gave the largest drop in temperature is the one which produces the greatest endothermic change when dissolved in water
+

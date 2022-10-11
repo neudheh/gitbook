@@ -40,7 +40,7 @@
 * In Brownian motion, the random, continuous motion of particles suspended in fluids is observed
 * Pollen grains moving randomly and continuously when suspended in water as smaller invisible water molecules are colliding with the pollen grains as invisible water molecules are moving constantly and randomly
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 * Tiny smoke particles (seen as bright specks under the microscope) are moving about in a constant and random manner as smaller invisible air molecules are colliding with the smoke particles as they are also moving continuously and randomly
 * At higher temperatures, pollen grains in water move more vigorously, and the motion remains random as at higher temperature, the water molecules move at higher speeds and have greater kinetic energy
