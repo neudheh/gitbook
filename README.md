@@ -11,6 +11,8 @@ Hi, welcome to my notes, i'm typing in gitbook
 
 my subject combi is **phys + chem + core geog + elective history** so these notes may or may not help you
 
+i took the O levels in 2022, and these notes may be totally out of syllabus for sec 1s and sec 2s, sec 3s may find use in them
+
 personally i think my ss notes and my physics notes are the only good ones sooooo :p
 
 **please also do not circulate my notes**, i used a lot of resources from the textbook, and a lot from teacher's notes, and this may or may not be copyrighted, idk
