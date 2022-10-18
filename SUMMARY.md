@@ -50,9 +50,12 @@
 ## history
 
 * [☮ TOV/LON](history/tov-lon.md)
-* [🪖 Stalin's Soviet union](history/stalins-soviet-union.md)
-* [👨✈ Hitler](history/hitler.md)
-* [🇯🇵 WWII in Asia Pacific](history/wwii-in-asia-pacific.md)
+* [🪖 Stalin](history/stalin.md)
+* [🪖 Hitler](history/hitler.md)
+* [🌎 Origins of the cold war](history/origins-of-the-cold-war.md)
+* [🇰🇷 Korean War](history/korean-war.md)
+* [💣 Cuban missile crisis](history/cuban-missile-crisis.md)
+* [🎊 End of the Cold War](history/end-of-the-cold-war.md)
 
 ## physics
 

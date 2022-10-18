@@ -117,7 +117,7 @@ Trick to remember:
 
 &#x20;****&#x20;
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 * One complete oscillation is the pendulum swinging from R to S and back to R again
 * As a good practice, when measuring the period of a pendulum, we should record the time  for a number of oscillations (e.g. 20) then obtain the average for one oscillation

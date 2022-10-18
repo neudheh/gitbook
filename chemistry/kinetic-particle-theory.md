@@ -82,7 +82,7 @@ coverY: 873.1914893617021
 * The temperature at which a liquid becomes a solid is called its freezing point
 * A pure substance freezes at the same temperature
 
-<figure><img src="../.gitbook/assets/cooling_curve.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image6.png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Liquid cools
   * Energy is given out by the particles of the liquid
@@ -105,7 +105,7 @@ coverY: 873.1914893617021
 * The temperature at which a liquid boils is called its boiling point
 * Different substance have different boiling points
 
-<figure><img src="../.gitbook/assets/heating_curve.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
 
 * A-B: Liquid heats up
   * Heat energy is absorbed by particles of the liquid
@@ -170,7 +170,7 @@ coverY: 873.1914893617021
 
 #### Diffusion chamber
 
-<figure><img src="../.gitbook/assets/poruous_pot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
 * In a diffusion chamber, when gas Z is less dense (due to lower Mr) than oxygen, gas Z will diffuse into the porous pot faster than the oxygen diffusing out -> higher amount of gas inside the porous pot ->higher pressure in the porous pot ->  pushes the water level down and the level of X increases
 * In a diffusion chamber, when gas Z is more dense (due to higher Mr) than oxygen, oxygen will diffuse out of the porous pot faster than gaz Z diffusing in -> there is a lower amount of gas in the porous pot -> lower pressure in the porous pot -> Level of X increases

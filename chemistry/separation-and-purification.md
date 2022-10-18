@@ -18,7 +18,7 @@ coverY: -72.95336787564767
 
 #### Set-up to test for the melting point of a substance
 
-<figure><img src="../.gitbook/assets/melting_point_test.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chemix.png" alt=""><figcaption></figcaption></figure>
 
 1. Put a small amount of solid into the boiling tube
 2. Place thermometer into the solid
@@ -33,7 +33,7 @@ coverY: -72.95336787564767
 
 #### Set-up to measure boiling point
 
-<figure><img src="../.gitbook/assets/boiling_point_test.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chemix.jpg" alt=""><figcaption></figcaption></figure>
 
 1. Fill half a beaker with water to be sued as a hot water bath
 2. Fill 1/3 of a clean and dry boiling tube with the liquid
@@ -48,7 +48,7 @@ coverY: -72.95336787564767
 * Pure substances will produce a single spot on the chromatogram
 * Impure substances will produce two or more spots on the chromatogram
 
-<figure><img src="../.gitbook/assets/paper_chromatography (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * The solutes have different solubility in the same solvent
 * Solutes with higher solubility in the solvent will travel a further distance and get seperated from solute with a lower solubility in the same solvent
@@ -92,7 +92,7 @@ coverY: -72.95336787564767
 
 * One of the solids can sublime on heating (ammonium salts, iodine crystals, solid carbon dioxide, naphthalene)
 
-<figure><img src="../.gitbook/assets/sublimation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * The solid that can sublime will vaporize and condense on the cool surface of the filter funnel while the other solid will be left behind in the evaporating dish
 
@@ -135,7 +135,7 @@ coverY: -72.95336787564767
 
 * Soluble solid in a liquid to form a homogenous solution
 
-<figure><img src="../.gitbook/assets/evaporation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 * The solid is stable to heat, remains stable on heating and does not decompose (group I salts)
 * Heat the solution till dryness
@@ -161,7 +161,7 @@ coverY: -72.95336787564767
 
 * Soluble solid in a liquid to fomra  homogenous solution
 
-<figure><img src="../.gitbook/assets/simple_distilation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Liquid of a lower boiling point will distill over first, while solid of a very high boiling point will be left behind in the distilling flask
 * The boiling chips are to ensure smooth boiling
@@ -174,7 +174,7 @@ coverY: -72.95336787564767
 
 * Both liquids are immiscible
 
-<figure><img src="../.gitbook/assets/Seperation_funnel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * Liquid with a higher density will sink to the bottom of the separating funnel and will be removed first
 * Liquid of a lower density will be left in the separating funnel and removed later

@@ -50,7 +50,7 @@ description: you and me should be a compound, chemically bonded together
 
 ## Metals, Non-metals and metalloids
 
-<figure><img src="../.gitbook/assets/periodic_table.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * Those near the red zigzag line are metalloids
 * Those at the left hand side of the periodic table are metals

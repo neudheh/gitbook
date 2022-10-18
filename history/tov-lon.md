@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1546198632-9ef6368bef12?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxvbGQlMjBkb2N1bWVudHN8ZW58MHx8fHwxNjYyMjYyMTUx&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
 # ☮ TOV/LON
 
 ## Terms of the treaty of Versailles
@@ -45,30 +39,30 @@ coverY: 0
 
 ### German humiliation
 
-* They objected to the war guilt clause, which forced Germans to take full responsibility for the outbreak of WWI&#x20;
+* They objected to the war guilt clause, which forced Germans to take full responsibility for the outbreak of WWI
 * In doing so, this gave the allies the right to levy reparations amounting to 6,600 million pounds on Germany
 * The Germans maintained that they were not the only country responsible for the outbreak of the war, with the Russians and the Austro-Hungarian empire playing a role in the outbreak of the war
 * The war guilt clause was imposed despite the fact that the German government signing the treaty was the newly-formed Weimar government
 * **Since the Germans were not allowed to contest this claim, they felt that the treaty of Versailles was dictated peace which was forced onto them, leading them to feel that it was a diktat**
 
-### German territorial reductions
+### German military reductions
 
-* Under the Treaty, it was stipulated that the German army was to be reduced to 100,000&#x20;
-* To prevent the build up of reserves, officers were to serve for 25 years and men for 12&#x20;
+* Under the Treaty, it was stipulated that the German army was to be reduced to 100,000
+* To prevent the build up of reserves, officers were to serve for 25 years and men for 12
 * Conscription was prohibited and only armaments sufficient for such a small army were to be retained
 * The rest of the German arsenal was to be destroyed under allied supervision
 * This meant that the great German army had to be shamefully dismantled
 * All of Germany west of the rhine and up to 50 km east of it was to be a demilitarized zone
 * **The Germans had venerated their military superiority since the German wars of unification and this forceful demilitarisation also meant a blow to German national pride -> blow to German pride/ national security**
 
-## German economic weakness
+### German economic weakness
 
 * The war guilt clause had given allies the right to demand compensation form Germany for the huge costs of WWI
 * Germany was made to pay reparations through ongoing payments to the allies through the surrender of coal and other resources at set periods
 * Germany was also suffering economic problems due to its efforts in the war
 * 15% of the active male population was lost -> severe shortage of workers to rebuild the economy
 * Reparations was an additional burden which further worsened German economic conditions
-* Hampered Germany's ability to pau on time
+* Hampered Germany's ability to pay on time
 * When Germany failed to make a payment on time, France sent its army into the Ruhr industrial region of Germany to confiscate coal and other goods as payments
 * Worsened the economic crisis and led to a general strike of German workers in the Ruhr
 * **Contributed to hyperinflation in 1923 and the threat of economic collapse**
@@ -87,12 +81,12 @@ coverY: 0
 
 * Germany was not invited to the Paris Peace Conference and was forces to sign the Treaty or war would resume
 * Brought much unhappiness to Germans as they were not allowed to discuss the terms of the treaty
-* Self-determination was also not applied to Germany and ethnic Germans  were forced to become part of other national like Czechoslovakia and the "free city" of Danzig
+* Self-determination was also not applied to Germany and ethnic Germans were forced to become part of other national like Czechoslovakia and the "free city" of Danzig
 * **Self-Determination seemed to apply only to the winners of the war -> Unfair towards Germans** **-> dictated peace which was forced onto them, leading them to feel that it was a diktat**
 
 ### Not justified: Treaty of Brest-Litovsk
 
-* Germany had imposed a harsh peace settlement on Russia during the Treaty of Brest-Litovsk which had seen Russia lose up to 80% of its industries, 25% of its territories  and 34% of its population, making the Treaty of Versailles seem mild in comparison.
+* Germany had imposed a harsh peace settlement on Russia during the Treaty of Brest-Litovsk which had seen Russia lose up to 80% of its industries, 25% of its territories and 34% of its population, making the Treaty of Versailles seem mild in comparison.
 * Germans were also not weakened as Germany was producing twice as much steel as Britian by 1925
 
 ## Did it achieve its goals?
@@ -109,7 +103,7 @@ coverY: 0
 * Reduced the size and capability of Germany's armed forces, making it unlikely to be able to undertake an aggressive foreign policy
 * Demilitarization of the Rhineland saw Germany forbidden to station troops in the Rhineland area bordering France, guaranteeing France's security
 * Heavy reparations crippled the German economy and consigned it to a period of economic instability
-* **Sucess as it sufficiently weakened Germany and acted as a deterrent against different acts of aggression -> safeguarded Europe against any possible German attempts to renew its aggressive foreign policy**
+* **Success as it sufficiently weakened Germany and acted as a deterrent against different acts of aggression -> safeguarded Europe against any possible German attempts to renew its aggressive foreign policy**
 
 ### **No**
 
@@ -130,7 +124,7 @@ coverY: 0
 * Example: When France invaded the Ruhr after Germany failed to make a payment on time, The league was powerless to stop them
 * **Thus, council members were effectively given the power of veto, and found it hard to take action especially when the interests of major powers were at stake -> lost credibility as a peacekeeping organisation**
 
-### Limited membership&#x20;
+### Limited membership
 
 * Despite being the founder and military the strongest after WWI, the USA did not ratify the treaty
 * Preferred to engage in foreign affairs on their own terms at their own pace, rather than commit themselves to the league
@@ -165,5 +159,5 @@ coverY: 0
 ### Solved small disputes between countries
 
 * Able to resolve disputes between a number of countries such as Finland and Sweeden over the Aaland islands, and was able to get both to accept the decision to give the Islands to Finland
-* Able to resolve the dispute between Greece and Bulgaria and was able to make Greece withdraw&#x20;
+* Able to resolve the dispute between Greece and Bulgaria and was able to make Greece withdraw
 * **Could resolve disputes -> showed its ability to achieve its objectives as long as there was the will to do so**
