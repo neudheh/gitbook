@@ -1,5 +1,4 @@
 ---
-description: please read this before going on
 cover: >-
   https://images.unsplash.com/photo-1495306056492-7bc87e249cf0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8
 coverY: -502.95829787234044
@@ -14,6 +13,8 @@ my subject combi is **phys + chem + core geog + elective history** so these note
 i took the O levels in 2022, and these notes may be totally out of syllabus for sec 1s and sec 2s, sec 3s may find use in them
 
 personally i think my ss notes and my physics notes are the only good ones sooooo :p
+
+please do not use my notes as the only resource, please refer to your textbook/ teacher's notes, and maybe even make your own  <3
 
 **please also do not circulate my notes**, i used a lot of resources from the textbook, and a lot from teacher's notes, and this may or may not be copyrighted, idk
 

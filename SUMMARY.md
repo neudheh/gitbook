@@ -34,7 +34,7 @@
   * [KQ2: Why are coastal areas valuable?](geography/coasts/kq2-why-are-coastal-areas-valuable.md)
   * [KQ3: How can we manage coastal areas in a sustainable manner?](geography/coasts/kq3-how-can-we-manage-coastal-areas-in-a-sustainable-manner.md)
 * [✈ Tourism](geography/tourism/README.md)
-  * [KQ1: How does tourism vary from place to place?](geography/tourism/kq1-how-does-tourism-vary-from-place-to-place.md)
+  * [KQ1: How does the nature of tourism vary from place to place?](geography/tourism/kq1-how-does-the-nature-of-tourism-vary-from-place-to-place.md)
   * [KQ2: Why has tourism become a global phenomenon?](geography/tourism/kq2-why-has-tourism-become-a-global-phenomenon.md)
   * [KQ3: Developing tourism at what cost?](geography/tourism/kq3-developing-tourism-at-what-cost.md)
 * [☁ Weather and climate](geography/weather-and-climate/README.md)

@@ -7,14 +7,14 @@ coverY: -200.67562189054726
 
 # ✈ Tourism
 
-{% content-ref url="kq1-how-does-tourism-vary-from-place-to-place.md" %}
-[kq1-how-does-tourism-vary-from-place-to-place.md](kq1-how-does-tourism-vary-from-place-to-place.md)
+{% content-ref url="kq1-how-does-the-nature-of-tourism-vary-from-place-to-place.md" %}
+[kq1-how-does-the-nature-of-tourism-vary-from-place-to-place.md](kq1-how-does-the-nature-of-tourism-vary-from-place-to-place.md)
 {% endcontent-ref %}
 
-{% content-ref url="kq2-why-has-tourism-become-a-global-phenomenon.md" %}
-[kq2-why-has-tourism-become-a-global-phenomenon.md](kq2-why-has-tourism-become-a-global-phenomenon.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="kq3-developing-tourism-at-what-cost.md" %}
-[kq3-developing-tourism-at-what-cost.md](kq3-developing-tourism-at-what-cost.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

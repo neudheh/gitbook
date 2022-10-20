@@ -105,7 +105,7 @@ What happens if the coil has turned 90° and goes past the vertical position?
 
 * Once it goes past the vertical position to the left, a clockwise moment will be produced instead
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (2).png>)
 
 * Hence the coil will rotate to and fro and finally comes to rest with the coil in the vertical position
 * Although there are still forces acting on the coil, no moment is produced because the perpendicular distance from the line of action of the force to the pivot is zero
