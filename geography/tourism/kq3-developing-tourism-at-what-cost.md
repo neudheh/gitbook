@@ -258,11 +258,11 @@
 * This allows them to have rewarding visits with responsible tourism
 * For example, visitors should be dressed appropriately to visit temples, such as Wat Benchamabophit, a temple in Bangkok, Thailand
 
-| Advantages | Disadvantages |
-| ---------- | ------------- |
-|            |               |
-|            |               |
-|            |               |
+| Advantages                                           | Disadvantages                       |
+| ---------------------------------------------------- | ----------------------------------- |
+| Fund conservation and preservation                   | Damage tourist attractions          |
+| Provide income opportunities for locals              | Dilute local culture and traditions |
+| Raise awareness to conserve and preserve attractions |                                     |
 
 ### Tour operators
 
