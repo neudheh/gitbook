@@ -6,175 +6,197 @@ coverY: 85.29702127659574
 
 # KQ2: What is happening to the earth's climate?
 
-## How has global climate changed?
+## Climate change and global warming
 
-* **Climate change refers to the variation in the global climate or climatic patterns in the long term**
-* Include major changes in temperature, precipitation or wind patterns that occur over several decades or longer
-* **Global warming is the increase in global temperatures over a long period of time**
-* Since the 1800s, the earth has experienced a significant but irregular upward trend in temperature with fluctuation of 0.3 to 0.6°C
+* Global climate change refers to the variation in the global climate or climatic patterns in the long term, including major changes in temperature, precipitation, or wind patterns that occur over several decades or longer
+* Since the 1800s, the earth has experienced a significant but irregular upward trend in temperature with fluctuations of 0.3 - 0.6°C
+* This is due to global warming, the increase in global temperatures over a long period of time
 
 ## Natural causes of climate change
 
 ### Variations in solar output
 
-* The sun emits varying amounts of solar radiation due to changes in its magnetic field, affecting the earth's climate which is very sensitive to the amount of solar radiation it receives
+* The sun emits varying amount of solar radiation due to changes in tis magnetic fields, which affects the earth climate as it is very sensitive to the amount of solar radiation it receives
 * Sunspots are cooler regions on the sun's surface that appear as dark spots
-* During periods of intense solar magnetic activity, the number of sunspots increases, resulting in higher solar radiation
-* This is because the areas surrounding the sunspots radiate more energy, compensating for the lower temperature over the sunspot areas
+* During periods of intense solar magnetic activity, the number of sunspots increases
+* This results in higher solar radiation, as areas surrounding the sunspots radiate more energy to compensate for the lower temperatures of the sunspot areas
 * Higher sunspot activity is linked to higher amounts of solar radiation emitted
-* The number of sunspots rises and falls with an approximate 11 year cycle, which is associated with the earth's cycle of high and low global temperatures
-* Example: A peak in the number of sunspots in 2000,  coinciding with high solar activity causing global temperatures to be increased during this period&#x20;
+* The number ro sunspots rises and falls with an approximate 11 year cycle, which is associated with the earth's cycle of high and low global temperatures
+* A peak in the number of sunspots in 2000 coincided with high solar activity, causing global temperatures to rise during this period
 
 ### Volcanic eruptions
 
-* When a volcano erupts, large volumes of carbon dioxide, water vapor, sulfur dioxide, dust and ash are released into the atmosphere
-* Sulfur dioxide reacts with water to form sulfur based particles in the atmosphere
+* When a volcano erupts, large volumes of carbon dioxide, water vapour, sulfur dioxide , dust and ash are released into the atmosphere
+* Sulfur dioxide reacts with water to form sulfur-based particles in the atmosphere
 * Together with dust and ash, these particles reflect solar energy back into space, resulting in a cooling influence on regional and global temperatures
-* Example: When Mount Pinatubo in the Philippines erupted in 1991, it released17 million tones of sulfur dioxide into the atmosphere, forming sulfur based particles that spread around the earth int two weeks, lower temperature in the northern hemisphere by as much as 0.6°C for 2 years
-* But, they have few long term effects on the earth's climate, because the temporary cooling influence will cease one the volcanic dust and ash settle
-* Human activities since the mid-1980s have resulted in more than 100 times the carbon dioxide emitted by volcanos
+* When Mount Pinatubo in the Philippines erupted in 1991, the eruption released 17 million tonnes of sulfur dioxide into the atmosphere, formning sulfur-based particles that spread around the earth in 2 weeks
+* They reflected solar energy back into space, and lowered temperature in the northern hemisphere by as much as 0.6°C
+* But, there are very few long-term effects of volcanic eruption's on the earth's climate, because the temporary global cooling influence will cease once all the volcanic dust and ash settle
+* Human activities since the mid 1980s had resulted in more than 100 times the amount of carbon dioxide emitted by volcanoes&#x20;
 
 ## The greenhouse effect
 
-* **The greenhouse effect is a natural process by which greenhouse gasses trap heat in the atmosphere, keeping it warm to sustain life on earth**
-* The earth receives shortwave radiation in the form of visible light from the sun, some of which is absorbed by the earth's surface which heats up as a result
-* The earth then emits longwave radiation in the form of infrared radiation&#x20;
-* The gases in the earth's atmosphere trap longwave radiation emitted from the earth's surface, warming the atmosphere
-* **Greenhouse gasses are good absorbers of longwave radiation** e.g. water vapor, carbon dioxide, methane, nitrous oxide, ozone and halocarbons such as CFCs (chlorofluorocarbons)
-* Found in the atmosphere
-* When they absorb longwave radiation, they re radiate it in all directions
-* Some of it escapes to space, but most are absorbed by other gas molecules in the atmosphere or by the surface of the earth
+* The greenhouse effect is a natural process by which greenhouse gasses trap heat in the atmosphere, keeping it warm to sustain life on earth
+* The earth receives shortwave radiation in the form of visible light on the sun, which passes through the atmosphere
+* Some of the shortwave radiation is reflected by the earth and the atmosphere
+* Most of the shortwave radiation is absorbed by the earth's surface which heats up as a result, causing it to emit longwave radiation in the form of infrared radiation
+* The longwave radiation is absorbed by the gasses in the earth's atmosphere
+* Water vapour, carbon dioxide, methane, nitrous oxide, ozone and halocarbons such as CFCs (Chlorofluorocarbons) are good absorbers of longwave radiation, and are known as greenhouse gasses
+* They absorb longwave radiation and re-radiate it in all direction
+* Some of it escapes into space, but most of it is absorbed by other gas molecules in the atmosphere or the surface of the earth
+* The enhanced greenhouse effect is the increase in the concentration of greenhouse gases in the atmosphere, leading to a rise in global temperatures
+* This is because human activity causes greenhouse gasses to be released at a far greater rate than that of natural emissions of greenhouse gasses
 
-## Enhanced greenhouse effect
-
-* **The enhanced greenhouse effect refers to an increase in the concentration of greenhouse gases in the atmosphere, leading to a rise in global temperatures**
-* Occurs when human activity causes greenhouse gasses to be released at a far greater rate than that of natural emissions of greenhouse gasses
-* Concentrations of greenhouse gasses such as nitrous oxide and methane have increased in the earth's atmosphere since the industrial revolution in the mid-18th century
-* The gas with the most significant increase is carbon dioxide
-* **Anthropogenic factors are factors caused by human activities such as deforestation and changing land use**
+## Anthropogenic factors
 
 ### Deforestation
 
-* Deforestation is the loss of forests due to the removal or clearance of trees in forested areas
-* Trees are felled for wood to make products such as paper and building materials, and also to clear the area for mining, grazing of animals, the planting of crops and construction of infrastructure
-* Forests absorb billions of tones of carbon dioxide every year via photosynthesis, taking in a significant amount of global greenhouse gas emissions
+* Deforestation is the loss of forests due to the removal/ clearance of trees in forested areas
+* Trees are felled for wood to make products such as paper and building material, or to clear the area for mining activities, grazing of animal, planting of crops and construction of infrastructure
+* Forests absorb billions of tonnes of carbon dioxide every year via photosynthesis, thu they take in a significant amount of greenhouse gas emissions
 * With deforestation, there are fewer trees and other plants to absorb carbon dioxide, leading to an increase in carbon dioxide levels in the atmosphere
-* Carbon dioxide is also emitted during the process&#x20;
-* Soil is one of the largest sources of carbon in the world as carbon in the soil accumulates through the decay of organic matter such as dead leaves and animals
-* Deforestation exposes the soil to sunlight, causing soil temperature to rise and increasing the rate of carbon oxidation in the soil
-* Carbon oxidation is when carbon in the soil reacts with oxygen in the atmosphere to produce carbon dioxide
-* Deforestation increases the rate at which carbon dioxide is released from the soil into the atmosphere
-* Example: Between 2000 and 2010, 52,000 $$km^2$$ of forest was lost every year, equivalent to losing 142.5 $$km^2$$​ every day, equivalent to 4 and 1/2 times of the area of Jurong island
+* Carbon dioxide is also emitted during the process of deforestation and land clearance
+* Soil is the largest sources of carbon in the world as carbon is accumulated through the decay of organic matter such as dead leaves and animals
+* Deforestation exposes soil to sunlight, increasing the soil temperature and the rate of carbon oxidation in the soil
+* Carbon oxidation is the process by which carbon in the soil reacts with oxygen in the atmosphere to produce carbon dioxide, thus deforestation increases the rate at which carbon dioxide is released from the soil into the atmosphere
+* Between 2000 and 2010, 52,000 km² of forest was lost every year, meaning that every day 142.6 km² of forest, equivalent to about 4.5 times the area of Jurong Island is lost
 
 ### Changing land use
 
-* As population increases, the demand for agricultural and industrial land use also increases
-* Land is also converted to urban or build-up areas as more people chose to live in cities
-* The changing land use changes contribute to greenhouse gas emissions are more fossil fuels are burnt to meet the energy demands of agriculture, industry, and an increasing urban population
-* Fossil fuels are formed dead organic matter that has decomposed over many millions of years, and it is mainly in oil, coal and gas
-* Due their high carbon content, fossil fuels contribute to the increase in greenhouse gases by producing large amounts of carbon dioxide when burnt
-* Example: In 2010, global carbon emissions totaled 30.6 billion tones, which was a 5.6% increase from 2009. 80% of Singapore's energy is from fossil fuels
-* The world's usage of fossil fuels have increased in recent years, releasing billions of tones of carbon dioxide into the atmosphere each year
+* As the population increases, the demand for agricultural and industrial land also increases
+* Land is converted to urban or built-up areas as more people choose to live in cities
+* Land use changes contribute to greenhouse gas emissions as more fossil fuels are burnt to meet the energy demands of agriculture, industry and increasing urban population
+* Fossil fuels are formed from dead organic matter that has decomposed over many millions of year, commonly in the forms of oil, coal and gas
+* Due to their high carbon content, fossil fuels produce a large amount of carbon dioxide gas when burnt, contributing to the increase in greenhouse gasses
+* Large consumers of fossil fuels include China, USA, Canada and the UK
+* 80% of SIngapore electricity comes from fossil fuels
+* The world's usage of fossil fuels has increases in recent years, and billions of tonnes of carbon dioxide gas are released into the atmosphere each year
+* In 2010, global carbon emissions totalled 30.6 million tonnes, a 5.6% increase from 2019,
+* This corresponds to an increase in global temperatures in 2010, one of the warmest years in the 21st century, a significant 0.6°C from the average temperature in the 20th entry
 
 #### Agriculture
 
-* Agriculture is the practice of cultivating land, producing crops and raising livestock, and it is the 3rd largest contributor of greenhouse gases
-* Tractors run on fossil fuels which releases carbon dioxide
-* The use of inorganic fertilizers increase the amounts of nitrous oxide in the soil, causing it to be released when the soil is ploughed or when rain flows through the soil
-* Nitrogen based fertilizer stimulates microbes in the soil to convert nitrogen to nitrogen oxide faster than normal
-* Organic matter such as dead leaves and manure releases methane during decomposition, which is rapid in rice fields due to the high level of moisture in the soil
-* Cattle release methane as a waste gas, and millions of tones of methane are rehearsed each year from cattle farming
+* Agriculture is the practise of cultivating land, producing crops and raising livestock, and it is the 3rd highest contributor of greenhouse gasses
+* Tractors run on fossil fuels which release carbon dioxide
+* The use of inorganic fertilizers increase the amount of nitrous oxide in the soil, as it stimulates microbes in the soil to convert nitrogen to nitrous oxide faster than normal
+* Nitrous oxide is released when soil is ploughed or when rain flows through the soil
+* Organic matter such as dead leaves and manure releases methane during decomposition, which is even more rapid in rice fields due to the high level of moisture in the soil
+* Cattle farming contributes to carbon dioxide emission as cattle release methane as a waste gas
+* Millions of tonnes of methane are released each year from cattle farming
+* Every cow produces between 1,000-8,000 litres of emissions daily
+* Methane from cows accounts for more than 30% of Argentina's total greenhouse emissions
 
 #### Industries
 
 * Industries refer to the production of goods and services within a country
-* Secondary industries, which are industrial economic activities such as manufacturing, involve the burning of fossil fuels that result in greenhouse gas emissions
-* Greenhouse gases are also released as by-products when goods are produced
-* In the past, most carbon dioxide emissions from Europe, North and Central America, as they were heavily involved in manufacturing activities, but counties such as China and India are also contributing more to global carbon dioxide emissions due to their rapid industrialization
+* Secondary industries, which are industrial economic activities such as manufacturing, involve  the burning of fossil fuels that result in greenhouse gas emissions
+* Greenhouse gasses are also released as byproducts when goods are produced
+* The largest carbon dioxide emissions from industrial process are found in North and Central America, Europe and Asia
+* In the past, most carbon dioxide emissions from industrial processes were found in Europe, North and Central America because they were heavily involved in manufacturing activities
+* But, in recent years, China and India are also contributing more to global carbon dioxide emissions due to their rapid industrialisation
 
-#### Urbanization&#x20;
+#### Urbanisation
 
-* Urbanization is the process by which an increasing number of people live in urban areas such as the cities, or towns
-* Large amounts of fossil fuels are burnt to provide energy for household activities in urban areas, including heating, cooling, cooking and lighting
-* The high concentration of cars, buses and other forms of transportation in urban areas also contribute to the amount of greenhouse gases emitted
-* Constructing infrastructure and producing construction materials also release greenhouse gases into the atmosphere
+* Urbanisation is the process by which an increasing number of people live in urban areas such as cities or towns
+* Large amounts of fossil fuels are burnt to provide energy for household activities in urban areas, such as heating, cooling, cooking and lighting
+* The high concentration of cars, busses and other forms of transport in urban areas also contributes to the amount of greenhouse gasses emitted in these areas
+* Constructing infrastructure and producing construction materials also releases greenhouse gasses into the atmosphere
 
 ## Impacts of climate change
 
 ### Sea level rise
 
-* Sea level rise is the increase in the mean high of the sea's surface between high tide and low tide relative to land
-* Higher temperatures cause the melting of glaciers in Greenland and Antarctica and the resultant meltwater causes a rise in the sea level&#x20;
-* Higher temperatures cause water in seas to expand, increasing sea level
-* Rising sea levels threaten low-lying areas and land
-* Over 600 million people worldwide live in areas less than 10m below sea level
-* 2/3 of the world's largest cities located in costal areas are also at risk due to rising sea levels
-* 33% of costal land and wetland habitats are likely to be lost in the next 100 years if sea level continue to rise at current rates
-* Example: Majuro Atoll in the Pacific Ocean will lose 80% of its land if the sea levels rise by half a meter
+* Sea level rise the increase in the mean height of the sea's surface between high tide and low tide relative to land
+* Higher temperature cause the melting of glaciers in Greenland and Antarctica, and the resultant meltwater causes a rise in the sea level
+* Higher temperatures in the atmosphere causes water in seas and oceans to expand, resulting in a rise in sea level
+* Rising sea levels have a negative impact on where humans live
+* Over 660 million people worldwide live in areas less than 10m above sea level
+* Rising sea levels threaten low-lying areas and islands
+* 2/3 of the world's largest cities located in coastal areas are also at risk due to rising sea levels
+* 33% of coastal and wetland habitats in the next hundred years if sea levels continue to rise at the current rates, due to coastal erosion during storm surges and coastal floods
+* Majuro Atoll in the Pacific ocean will lose 80% of its land if sea level rise by half a metre
 
 ### More frequent extreme weather events
 
 * An extreme weather event is a severe and rare weather phenomenon that results in significant economic losses and the loss of lives
-* Heat waves are silent killers which can kill many people, and are a type of extreme weather event
-* Example: In august 2003, Europe experienced a heat wave which killed more than 70,000 people
-* When people are subject to extreme heat, vital organs are at risk and death results when the body cannot cool itself sufficiently
+* One type of extreme weather event is the heat wave, which are 'silent killers', and can kill many people although they are neither destrictive nor violent
+* When people are subject to extreme heat, vital organs are at risk and death results when the body cannot cool itself down sufficiently
 * Young children and the elderly are especially vulnerable to heat exhaustion and other heat-related illnesses
-* Extreme weather are believed to be rising in the last few decades due to higher land and sea surface temperatures
-* Higher temperatures have resulted greater amounts of water vapor and latent heat in a warmer atmosphere, which serves as a powerful driving force for extreme weather events
+* The occurrence of extreme weather events has increased in the last few decades due to higher land and sea surface temperatures
+* This results in greater amounts of water vapour and latent heat in a warmer atmosphere, making it a powerful driving force for extreme weather events
+* In August 2003, Europe experienced a heatwave killing more than 70,000 people
 
-### Spread of some infectious insect borne diseases
+### Spread of insect-borne infectious diseases
 
-* Climate change could result in increase temperatures and rainfall in various part of the world
-* Insects thrive  in these favorable conditions, and this may lead to the rise in infectious insect-borne diseases, which are diseases transmitted to humans or animals by insects
-* Example: Heavy rainfall may allow mosquitos to grow in numbers in aquatic habitats, resulting in the spread of malaria and dengue fever
-  * Malaria is an insect-borne disease which is spread by the mosquito parasite, which causes high fever, chills and flu-like symptoms
-  * Dengue fever is cause by a virus transmitted to humans by the bite of an infected mosquito, which cause fever, headaches and even severe bleeding
-* Regions with more moderate temperatures, such as Europe and North America, are facing diseases once confined to the tropics
+* Climate change could result in increased temperatures and rainfall in various parts of the world
+* Insects thrive in these favourable conditions, leading to the spread of infectious insect-borne diseases, which are diseases transmitted to humans or animals by insects
+* Heavy rainfall may allow mosquitoes to grow in numbers in aquatic habitats, resulting in the spread of malaria and dengue fever
+* Malaria is an insect-borne disease spread by the mosquito parasite, which causes high fever, chills and flu-like symptoms
+* Dengue fever is caused by a virus transmitted to humans by the bite of an infected mosquito, with symptoms such as fever, headaches and severe bleeding
+* Regions with moderate temperatures, such as Europe and North America, are facing diseases once confined to the tropics
 * Dengue fever was reported in the cool climate areas of Nepal and Bhutan for the first time in 2004
 
-### Lengthening of growing seasons in certain regions
+### Lengthening of the growing season in certain regions
 
-* Higher temperatures may result in longer growing seasons in some regions
-* The growing season refers to the period during which crops can be grown
-* Advantageous for areas like the united kingdom as an increase in the type of crops that can be grown, such as blackberries and maize
-* The production of fruit, soya beans an potatoes is projected to increase in Canada
-* Disadvantageous for regions like Yunnan, China as the productions of fruits like apple and cherries and nuts such as almonds and walnuts is reduced as these fruits require cool weather conditions
-* The average wheat grain yield has reduced in Canada
+* Higher temperature may result in longer growing seasons in some regions
+* The growing season refers to the periods during which crops can be grown
+* Advantages
+  * An increase in the type of crops that can be grown th the UK; new crops such as blackberries and maize can be cultivated
+  * The production of fruit, soya beans and potatoes is projected to increase in Canada
+* Disadvantages
+  * In the Yunnan province, China, the productions of fruits such as apples and cherries, and nuts such as almonds and walnuts is reduced as these fruits and nuts require cool weather conditions
+  * In Canada, the average wheat grain yield has reduced
 
-## Responses to climate change
+## Responses
 
-### International Reponses
+### International agreements (Kyoto Protocol)
 
-* International agreements are contracts signed by two or more counties
+* International agreements are contracts signed by two or more countries
+* The Kyoto protocol is an agreement linked to the UNFCCC (United Nations Framework Convention on Climate Change)
+* The UNFCCC is an international convention set up with the goal of reducing the levels of greenhouse gasses in the environment
+* Under the protocol, various targets were set to reduce greenhouse gas emissions were set for participating countries
+* Greater responsibility to reduce emissions was placed on 37 developed countries and the european countries
+* These countries were mainly responsible for the high levels of greenhouse gas emissions in the atmosphere as a result of 150 years of industrial activities
+* From 2008 to 2012, these countries were obligated to reduce their combined greenhouse gas emissions by at least 5% below their 1990 levels.
+* Depending on the ability of each country, these countries had additional responsibilities such as helping less developed countries reduce their greenhouse gas emissions by providing them with funds
+* Many countries have met or exceeded the targets set by the Kyoto Protocol
+* France, Greece, Ireland met their emission reduction targets
+* It was also successful in encouraging sustainable development
+* The Clean Development Mechanism gave Certified Emission Reduction Credits to countries who carried out emission-reduction projects such as installing energy-efficient infrastructure in less developed countries
+* Each credit is equivalent to one tonne of carbon dioxide
+* Although most countries managed to meet their emission targets, where were those like Denmark, Austria and Spain that did not achieve their targets
+* It was not compulsory for countries with low greenhouse gas emissions to provide support to other countries, hence countries with high greenhouse gas emissions may not be able to easily achieve their targets
+* Some of the largest contributors of Greenhouse gasses such as China, India and USA did not sign the agreement
 
-#### Kyoto protocol
+### National responses
 
-* The Kyoto Protocol is an agreement linked to the United National Framework Convention of Climate Change (UNFCCC), an international convention set up with the goal of reducing the levels of greenhouse gases in the atmosphere
-* Under the protocol, various targets to reduce greenhouse gas emissions were set for participating countries
-* Many countries have met or exceeded the targets set by the Kyoto protocol
-* Finland, Greece and Ireland have met their emission reduction targets
-* It was also successful in encouraging sustainable development because developed countries were incentivized to carry out emission-reduction projects in less developed countries like installing energy-efficient infrastructure
-* Some of the largest contributors to greenhouse gas emissions such as China and India did not sign the agreement
-* Some countries such as Denmark and Austria did not meet their assigned targets despite most countries being able to reach its targets
+#### Singapore Green Plan 2012: Reduction of greenhouse gas emissions by using natural gas as an energy source
 
-### National responses&#x20;
+* Launched by the mInistry of the Venironment in 2002
+* AImed to generate 60% of Singapore's energy needs using natural gas by 2012
+* Natural gas is a cleaner form of energy in comparison to coal because it does not produce smoke
+* As early as 2010, 79% of electricity was being generated from natural gas, exceeding the target ahead of schedule
+* But, natural gas requires complex treatment plants to process adn pipelines to transport
+* These pipelines have high maintenance costs as they need to be laid underground and checked regularly for leakage
 
-* National responses are strategies which tackle reducing greenhouse gas emissions locally
-* Necessary because there are measures specific to certain countries
+#### Green Mark Scheme: Constructing 'green' buildings
 
-#### Singapore green plan 2012
+* Launched by the Building Construction Authority (BCA) in 2005
+* The scheme allows buildings to be evaluated and certified according to how energy-efficient and environmentally friendly they are
+* The scheme aims to encourage more new 'green buildings' , which are more energy efficient
+* Buildings which use less energy to provide the same service have greater energy efficiency
+* Promotes energy conservation in the long run, which are efforts made to reduce energy consumption
+* Existing 'green' buildings include Plaza by the Park, Standard Chartered @ Changi and the National Library Building have reported energy savings of 15% to 35% compared to conventional buildings
+* This helps to reduce Greenhouse gas emissions by reducing the use of fossil fuels to generate electricity
+* Construction companies and developers in Singapore tend to be conservative about adopting new ideas and materials to build 'green' buildings
+* 'Green' buildings are built using processes that are environmentally-friendly adn resource-efficient
+* Expensive to build as 'green' materials may be more expensive, such as bamboo or recycled metal that are non-toxic, res=usable, renewable or recyclable
 
-* Launched by the ministry of the environment in 2002 and aimed to generate 60% of Singapore's energy need through natural gas by 2012
-* Natural gas is a cleaner form of energy because it does not produce smoke
-* As early as 2010, about 79% of Singapore's electricity was being generated from natural gas, exceeding the targets
-* Reduced the amount of pollution created by energy generation
-* The usage of natural gas results in a requirement of complex treatment plants to process and pipelines to transport
-* The pipelines have high maintenance costs because they have to be laid underground and checked regularly for maintenance
+#### Plant-A-Tree Programme: Planting more trees and plants
 
-#### Plant-a-tree program
-
-* The program by the Garden City Fund and the Singapore Environment Council encourages residents to donate money to buy a tree or to take part in tree planting events
-* Has contributed to an estimated 60,000 trees planted yearly throughout Singapore
-* Trees help to remove carbon dioxide from the atmosphere, reducing the amount of greenhouse gases present
-* Trees take time to mature so the benefits would take time to materialize
-* Even relatively fast growing trees like angsanas, take 25 years to reach their full height
+* Started in 1971 as tree planting day, the Plant-A-Tree Programme by the Garden City FUnd and SIngapore Environment Council aims to maintain Singapore's status as a Garden City by planting trees
+* Residents are encouraged to donate money to buy a tree or take part in tree planting events that take place monthly throughout Singapore
+* THe programme has contributed to an estimated 60,00 trees planted yearly throughout Singapore by NParks
+* Trees are the green lungs of the environment as they remove carbon dioxide from the atmosphere
+* Trees take many years to mature, so the positive effects of tree planting will take time to materialise
+* Even relatively fast-growing trees such as angsanas, raintrees, and yellow flames that were planted by NParks took 25 years to reach their full height
