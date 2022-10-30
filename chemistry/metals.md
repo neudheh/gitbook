@@ -26,7 +26,7 @@
 
 * Alloys are mixtures of a metal with other elements
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Pure metals are softer than alloys because layers of atoms can slide over one another when force is applied
 * In an alloy, atoms of **different sizes  disrupt the orderly arrangement of atoms in a pure metal, and prevent layers o atoms from slider over each other**

@@ -69,7 +69,7 @@ From the table, refer to the data obtained to determine if an increases in tempe
 
 ## Metals (decomposition of metal carbonate)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Set up the apparatus as shown in the diagram above
 2. Using an electronic balance, weigh 1g of powdered $$MgCO_3$$​and transfer it into a dry boiling tube
