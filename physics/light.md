@@ -65,4 +65,4 @@
 | U = 2f                                                                  | <p>Image on the opposite side of the lens<br>Real<br>Same size<br>inverted</p>  | Photocopier making the same sized copy |
 | f < U <2f                                                               | <p>Image on the opposite side of the lens<br>Real<br>Magnified <br>Inverted</p> | Projector                              |
 | U = f                                                                   | <p>Image on the same side of the lens<br>Virtual<br>Same size<br>Upright</p>    | Eyepiece lens of a telescope           |
-| U < FI                                                                  | <p>mage on the same side of the lens<br>Virtual<br>Magnified<br>Upright</p>     | Magnifying glass                       |
+| U < f                                                                   | <p>mage on the same side of the lens<br>Virtual<br>Magnified<br>Upright</p>     | Magnifying glass                       |

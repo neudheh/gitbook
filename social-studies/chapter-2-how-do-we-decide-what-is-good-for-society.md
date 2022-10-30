@@ -44,7 +44,33 @@ coverY: 64.68085106382979
 * Resources are limited so the government must decided how to use the resources to benefit the most people
 * The government has to consider our limited resources when making decisions to develop Singapore
 
-_we are going to skip the part about the judiciary, the legislature and the executive because that shit is useless_
+## Bodies of government
+
+### Legislative
+
+* The legislative branch of the government is the lawmaking body and is important in serving the needs to the citizens
+* The legislative branch is where Members of Parliament (MP) propose bills, debate them in parliament, get i vetted by the PCMR (Presidential Council of Minority RIghts) and approved by the president before becoming an Act (Law)
+* For example, people were concerned that the opening of casinos in Singapore may lead to some Singaporeans being addicted to gambling
+* They voiced their concerns to their MPs, who debated it in parliament
+* They decided to impose a levy on Singaporeans entering the casinos to deter them from entering the casinos
+* **Citizen concerns -> tabled in parliament -> Pass laws -> Safeguards the interests and safety of the public**
+
+### Executive
+
+* The executive branch of the government is important in serving the needs of the people
+* It executes the law passed by the government and responsible for all government policies and day to day administration of the affairs of the state which serve the needs of the people living in the state
+* The ministry of education is an executive branch of government, and is responsible for all government policies and law relating to education like the running of public schools and the management of government teachers
+* This results in the educational needs of school going people being met
+* **Executive -> Execute laws passed by government -> Needs of the people are met/ country is orderly -> Can go about daily lives**
+
+### Judiciary
+
+* The judiciary branch of the government interprets and applies laws, and is important in serving the needs of the people
+* Consists of the supreme court, the state court and the family justice courts
+* Judicial power in Singapore is vested in the Supreme Court and the law made by the legislature are interpreted and applied by the Judiciary
+* Personal Protection orders (PPO) against family violence is a court order that prevents someone from being harmed by restricting person from entering the applicant's house or part of the house
+  * A PPO will be issued if the court is satisfied that there is family violence or it is likely to be committed, and the PPO is necessary for the applicant's protection
+* **Judiciary -> Laws are applied fairly to all -> People can go about daily lives without fear of being hurt -> Meets the needs of citizens**
 
 ## How the government manages conflicting demands
 
@@ -78,4 +104,3 @@ _we are going to skip the part about the judiciary, the legislature and the exec
 * Example: The Our Singapore Conversation in 2012 was where Singapore shared their views, hopes and dreams about Singapore. The government was able to learn about Singaporeans' hopes and desires and these ideas shared by Singaporeans have helped chart future plans for Singapore
 * **Greater sense of belonging in citizens -> Feel they have a stake in Singapore's future -> more willing to be involved in working for the good of society**
 * **Sense of belonging and rootedness to Singapore -> Contribute more to the country -> Singapore progresses**
-
