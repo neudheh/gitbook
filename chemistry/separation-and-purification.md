@@ -135,7 +135,7 @@ coverY: -72.95336787564767
 
 * Soluble solid in a liquid to form a homogenous solution
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * The solid is stable to heat, remains stable on heating and does not decompose (group I salts)
 * Heat the solution till dryness
@@ -161,7 +161,7 @@ coverY: -72.95336787564767
 
 * Soluble solid in a liquid to fomra  homogenous solution
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Liquid of a lower boiling point will distill over first, while solid of a very high boiling point will be left behind in the distilling flask
 * The boiling chips are to ensure smooth boiling
@@ -174,7 +174,7 @@ coverY: -72.95336787564767
 
 * Both liquids are immiscible
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Liquid with a higher density will sink to the bottom of the separating funnel and will be removed first
 * Liquid of a lower density will be left in the separating funnel and removed later

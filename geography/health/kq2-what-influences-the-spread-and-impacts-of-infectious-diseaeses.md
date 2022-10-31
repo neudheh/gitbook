@@ -8,224 +8,276 @@ coverY: 122.91404255319149
 
 ## Scale at which diseases occur
 
-* **An epidemic occurs when an infectious disease affects a population at higher than normal rates**
-* The Incident rate (number of new cases in a particular population over a specified time period) is greater than expected
+* The incidence rate is the number of new cases of a diseases in a particular population over a specified time period
 * The prevalence rate is the total number of existing cases of a disease in a particular population
-* **Pandemic is a widespread epidemic, usually continent-wide or global in reach**
-* **An endemic is a disease that is constantly present at low levels in a particular population or region**
+
+### Epidemic
+
+* An epidemic occurs when an infectious disease spreads rapidly to many people
+* The number of new cases in a given period, or the incidence rate, is greater than what is expected
+* Epidemics spread from person to person in an area where the diseases is not usually prevalent
+
+### Pandemic
+
+* A pandemic is when a disease spreads across a large area, such as entire country, continent or the whole world
+* An epidemic extends beyond the boundary of one area may become a pandemic
+
+| Epidemic                                                                                        | Pandemic                                                           | Endemic                                                                                 |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| A sudden, large outbreak of a disease which affect **a population** at higher than normal rates | A wide epidemic, usually **continent-wide or** global **in reach** | A disease that is constantly present at low levels in a particular population or region |
+
+## Types of diffusion
+
+* Diffusion is the spread of a particular disease across space
+* There is a place of origin
+
+### Expansion
+
+* Diseases is spread outward from a source
+* Takes place through contact between people and is strongly affected by distance
+* More likely to occur when people have contact of interact
+
+### Relocation
+
+* Introduction of a disease to a locations outside its current geographic range
+* Leaps over great distance and intervening population
+* Often occurs when a ocommunity migrate from one location to another
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Malaria
 
-* Malaria is a life threatening disease cause by a parasite
-* Female mosquitoes of the anopheles specimen transmit malaria
-* Mode of transmission of human-mosquito-human (transmitted from person to person via mosquitos)
-* Spread through expansion diffusion (spread outwards from its source) instead of relocation diffusion (introduction of a disease to its region of of its geographic range)
-* Most widespread in the tropical and subtropical zones
-* Endemic
-* The African mosquito species have a relatively long lifespan. and tend to bite humans over animals, causing a high incidence of malaria and higher death rates from malaria
-* When Indonesia was hit by a tsunami in 2004, pools of stagnant water left behind by the tsunami and heavy rains provided mosquitos with suitable breeding conditions, causing survivors of the tsunami to be more vulnerable to malaria
-* Malaria infections can also occur in non-endemic regions by visiting regions where malaria is endemic
-* Children are more vulnerable since they have lower immunity against diseases
-* Pregnant women and people with HIV/AIDS are also more vulnerable due to weakened immunity
+* Malaria is a life-threatening disease caused by a parasite, transmitted from person to person via living organisms, commonly insects such as mosquitos (Female anopheles mosquito)
+* Have a human-mosquito-human mode of transmission
+* A mosquito takes blood, known as a blood meal from an human infected with malaria parasites
+* Malaria parasite enter and infect the mosquito
+* The infected mosquito bites another human, injecting malaria parasites into them, which migrate to the liver where they can reproduce and migrate into the bloodstream
+* Spreads through expansion diffusion, outwards from its source
+* Most widespread in tropical and subtropical zones
+* It is an endemic disease, which are disease that consistently occur in an area of community
+* Malaria mortality rates are highest in africa in 2011
+* The african mosquito species have a relatively long lifespan, prefer to bite humans over animals and this results in a high incidence of malaria cases and high death rates of malaria
+* Asia has a the second highest proportion of malaria cases
+* Malaria is endemic in India, Indonesia and Myanmar
+* Incidences of malaria infections increase greatly after disasters
+* When Indonesia was hit by a tsunami after 2004, pools of stagnant water left behind by the tsunamis and heavy rains provide mosquitos with suitable breeding conditions, making survivors more vulnerable to malaria infections
+* Malaria infections can occur in non-endemic regions due to people becoming infected when visiting regions where malaria is endemic
+* Children are more vulnerable to malaria as they have lower immunity against diseases
+* Pregnant woman and people with HIV/AIDS are also more vulnerable to contracting malaria due to weakened immunity
 
-## Factors contributing to the spread of malaria
+### Social factors
 
-### Lack of proper sanitation
+#### Lack of proper sanitation
 
-* Waste water is not disposed of properly, causing pools of stagnant water to form
-* These pools are replenished when it rains, and provide a favorable breeding ground for mosquitos
+* The lack of proper sanitation can contribute to the spread of malaria
+* Waste water is not disposed of properly, forming stagnant pools of water
+* These pools are replenished when it rains and provides a favorable breeding ground for mosquitoes
 * When located close to settlements, it increases the risk of people being infected with malaria
 
-### Limited provision of and access of healthcare&#x20;
+### Economic factors
 
-* Limited provision of and access in the healthcare may come in the form of&#x20;
-  * Shortage of doctors - India has a critical shortage of doctors, with only 6 doctors for every 10,000 people
-  * Lack of health services - most of India's healthcare spending is concentrated in urban areas, while little spending goes to rural areas
-  * Cost of malaria treatment - Malaria medication can cost may times the monthly income of the people in areas where malaria is a serious problem, and those who cannot afford it resort to cheaper but ineffective treatment
+#### Limited provision of and access to healthcare
 
-### Overcrowded living conditions
+* The shortage of doctors, lack of health services in rural areas, and the cost of malaria treatment can contribute to the spread of malaria
+* There is a critical shortage of doctors in India; the country only has 6 doctors per 10,000 people and only 4% of the GDP (Gross Domestic Product) is spent on healthcare
+* Most of India's spending on healthcare is concentrated in urban areas, with little spending going to rural areas
+* Medication is often available at medical centres, but it may be far from people's homes, causing people to delay receiving treatment
+* The longer an infected person waits, the greater the chances are of the person spreading the disease
+* Malaria treatment is also unaffordable in many poor areas, where malaria is prevalent
+* Malaria medication can cost many times the monthly income of the people in areas where malaria is a serious problem
+* Those that cannot afford medication may seek cheaper but ineffective medication, or no treatment at all
 
-* Overcrowded living situations are situations in which large numbers of people live very close together in a small area
-* People share the same space and use the same items
-* People interact with each other more often and more closely
-* Diseases spread quickly and easily
-* Housing for refugees and migrant workers are often overcrowded with many people sharing one room
-  * Unhygienic conditions
-  * Houses do not have proper doors and windows to keep out Anopheles mosquitos that are active at night
-  * Mosquitos can go easily from person to person
+### Environmental factors
 
-### Poor drainage and stagnant water
+#### Overcrowded living conditions
 
-* Poor drainage of water create condition favorable for growth of mosquito populations
-* Mosquitos breed quicky without interruptions where there is low awareness of malaria and no precautions are taken to remove pools of stagnant water
-* Water from 8000km of canals in the Great Indian Thar Desert leaked into many places and form breeding grounds for the Anopheles mosquitos&#x20;
-  * There have been regular outbreaks of malarian in desert areas of western India since the 1980s
-  * Similar environmental changes in other parts of India and Asia created new mosquito habitats that contributed to the spread of malaria
+* Overcrowded living conditions are where large numbers of people live very close together in a small area
+* People tend to share the same apces and sue the same items
+* They interact with each other more often and closely, allowing diseases to spread quickly and easily
+* Migrant housing conditions are often overcrowded with many people sharing one room, and are unhygienic conditions
+* The lack of proper doors and windows to keep out the anopheles mosquitoes that tend to be active at night
+* The crowded living conditions also mean that mosquitos are closer to large numbers of people living together, and can go from person to person easily
 
-### Effect of climate
+#### Poor drainage and stagnant water
 
-* Temperature, rainfall and relative humidity have a direct impact on mosquitos
-* Monsoons create favorable conditions for mosquitos to breed in by bringing in large amounts of rainfall
-* The post monsoon periods poses more risk for malaria to spread as pools of stagnant water are left behind as flooded areas dry up
-* Consequently, epidemics of malaria take place
-* Forested villages in Orissa, India where malaria incidence in the village is dependent on the intensity and duration of the monsoon rains, and on the timing of the start of winter
-  * These factors contribute to infection peak periods during the post-monsoon moths form September to February
+* Poor drainage of water creates conditions favourable for the growth of mosquito populations
+* In places where there is low awareness of malaria and no precaution is taken to remove pools of stagnant water, mosquitoes breed quickly and without interruption
+* In Rajasthan, India, water from 8,000km of canals in the Great Indian Thar Desert leaks into many places, creating swamps which form breeding grounds for the anopheles mosquitoes
+* There has been regular outbreaks of malaria in the desert areas of western India since the 1980s
+* Similar environmental changes in other parts of India and Asia have also created new mosquito habitats that have contributed to the spread of malaria
 
-| Temperature                                                                                                                                                                                                                                                                                                                                                                                              | Rainfall                                                                                                                                                                                                                                                                                                                                                                                                 | Relative humidity                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Temperatures in the range of 22°C can increase the lifespan of and the frequency of bites by female mosquitos</li><li>Higher temperatures shorten the development time of the parasites in the mosquitos host allowing mosquitoes to become active and infectious sooner</li><li>The aquatic life cycle of mosquitos will be reduced from 20 days to 7 days when temperature increases</li></ul> | <ul><li>Habitats for mosquitos to breed may include pools of stagnant water, which may result form rainfall which does not drain or evaporate</li><li>During times of the year where there is insufficient rainfall for stagnant pools to form, such habitats will not be created</li><li>Habitats may be removed when the rainfall is too high since the stagnant water is washed by the rain</li></ul> | <ul><li>Relative humidity that ranges from 50-60% is needed for the survival and activity of mosquitos</li><li>Higher humidity level leads to mosquitos having a longer lifespan, and are able infect people </li></ul> |
+#### Effect of climate
 
-## Impacts of malaria
+* Temperature rainfall and relative humidity have a direct impact on mosquitoes
+* Monsoons create favourable conditions for mosquitoes to breed by bringing large amount of rainfall
+* Heavy rains may flush out the breeding grounds of mosquitoes, causing malaria infections to decrease temporarily
+* Heavy rains may also form pools of water due to blocked storm drains caused by the accumulation of debris, which are ideal and secure breeding grounds for mosquitos
+* The post-monsoon periods poses more risk for malaria to spread, as pools of stagnant water are left behind as flooded areas dry up
+* Consequently, epidemics of malaria take place, such as in pakistan in 2006 and 2009
+* The impact of monsoons is more stark in forested areas
+* Forested villages in Orissa, India have malaria incidence in the village that is dependent on the intensity and duration of monsoon rains
+* It is also dependent on the timing of the start of winter
+* These factors contribute to peak infections periods in the post-monsoon months from September to February
 
-### Death rate
+| Temperature                                                                                                                             | Rainfall                                                                                                                              | Relative humidity                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Temperatures in the range of 22-30°C increase the lifespan and frequency of bites by female mosquitoes                                  | Habitats for mosquitoes to breed may include pools of stagnant water, which may result from rainfall that does not drain or evaporate | Relative humidity of 50-60% is needed for the survival and activity of mosquitoes                |
+| Higher temperatures shorten the development time of the parasites in the mosquitoes, and mosquitoes become active and infectious sooner | During times of there year when there is insufficient rainfall for stagnant pools to form, such habitats will not be created          | Higher humidity leads to mosquitoes having a longer lifespan, and are able to infect more people |
+| The aquatic life cycle of mosquitoes will be reduced from 20 days to 7 days when temperatures increase                                  | Habitats may be removed when rainfall is too high since the stagnant water will be washed away by the rain                            |                                                                                                  |
+
+### Social Impact
+
+#### Death rate
 
 * Malaria has an impact on the population of countries, communities and households
-* The number of people falling ill or dying varies from country to country
-* Most of the deaths caused by malaria in 2010 were form LDCs (Democratic republic of Congo, Nigeria)
+* The number of people falling ill or dying the malaria varies from country to country
+* In 2010, less than 2% of all deaths in the world were caused by malaria, majority of which were from LDCs
 
-### Infant mortality rate
+#### Infant mortality rate
 
-* The infant morality rate for children was very high in some places, e.g. out of every 1000 children alive in Nigeria, 140 die form malaria within their first year of birth
-* Women who contract malaria during pregnancy may infect the unborn child, e.g. 75,000 to 200,000 infants die every year within their first year of birth due to malaria infection during pregnancy
+* In some places, the infant mortality rate may be very high
+* Out of every 1,000 children born alive in Nigeria, 140 die from malaria within their first year of birth
+* Women who have contracted malaria during pregnancy may infect the unborn child
+* Between 75,000 and 200,000 infants die every year within their first year of birth due to low birth weight cause by malaria infection during pregnancy
 
-### Burden of malaria on households
+### Economic impact
 
-* The economic burden of malaria on individuals and households my include increased medical expenses
-* Example: In the republic of Ghana, the economic burden can be as high as 34% of a household's income
+#### Burden of malaria on households
 
-### Cost of healthcare
+* The economic burden of malaria on individuals and households may include increased medical expenses
+* Insecticide nets, Purchasing medication for treatment, travel expenses to obtain treatment, lost income from days off from work for treatment/ recover, days lost from school, the cost of implementing preventive measures and funeral costs are examples
+* In the Republic of Ghana, a country in West Africa, the economic burden can be as high as 34% of a household's income
 
-* Countries affected by malaria would need to set aside funds for the provision of healthcare to address the disease
-* Malaria can account for as much as 40% of public health spending in some countries
-* Funds may be used for building maintenance, investments in hospitals and clinics, and the purchase of mediation and insecticide-treated nets
+#### Cost of healthcare
 
-### Loss of productivity
+* Countries affected by malaria would need to set aside funds for the provision of healthcare to address the diseases
+* Malaria can account for 40% of public healthcare spending in some countries
+* Funds are used for building maintenance, investments in hospitals and clinics, and the purchase of medication and insecticide treated nets
 
-* People infected with malaria might not be able to work due to their poor health, resulting in a loss of productivity
-* Productivity is the rate at which goods or services are produced measured in output per unit of labor
-* Lower productivity results in slower economic growth
-* Areas endemic to malaria were found to experience a slowdown in economic growth
+#### Loss of productivity
 
-## HIV/ AIDS
+* People infected with malaria might not be able to work due to their poor health, resulting in a  loss of productivity for the workforce
+* Productivity is the rate at which good or services are produced, measured in output per unit of labour
+* Lower productivity results in slower economic growth&#x20;
+* Areas endemic to malaria have been found to experience a slowdown in economic growth
+* Economic growth in africa has been slowed by up to 1.3% each year
 
-* Human Immunodeficiency virus (HIV) is a virus that attacks the cells of the immune system by destroying white blood cells that are critical to fighting infections
-* Acquired Immune Deficiency Syndrome (AIDS) is the final stage of HIV, when the immune system is severely damaged, causing the body to become vulnerable to infections
-* A person dies from complications resulting from other infections
-* A person that is infected with HIV/AIDs is HIV-positive, and may not have symptoms at all for the next 9-10 years, during which they would develop aids
-* There is currently no known cure for AIDS
-* Transferred from person to person through blood or bodily fluids
-* Sexual contact, sharing of infected needles, pregnant mothers to babies and blood transfusion
-* Spreads through relocation and expansion diffusion
-* The most explosive growth was during the mid 1990s, especially in sub-Saharan Africa, where it spread mainly through expansion diffusion
-* By 2003, Africa was home to 2/3 of people living with HIV/AIDS
-* Continued to spread around the world
-* Sub-Saharan Africa, central America and southeast Asia experience the highest incidence rate of HIV/AIDS
-* People that partake in risk-taking behaviors, people who lack sexuality education awareness, children or infants born to HIV-positive mothers and women are most vulnerable to HIV/AIDS
-* Women are more vulnerable to men as they are twice as likely to contract HIV/AIDS during heterosexual intercourse and women are subject to sex without their consent in some societies
-* Millions of children are living with HIV/AIDS, with several thousand more being infected each year, most which are acquired from their mothers during pregnancy or breastfeeding
+## HIV/AIDS
 
-## Factors contributing to the spread of HIV/AIDS
+* HIV (Human Immunodeficiency Virus) is a virus that attacks the cells of the immune system by destroying white blood cells that are critical to fighting infections
+* Over time the body loses its ability to fight infections, leading to AIDS (Acquired Immune Deficiency Syndrome)
+* AIDS is the finals stage of HIV infection that occurs when the immune system is severely damaged, causing the body to become vulnerable to infections
+* AIDS is the final stage of HIV infections that occurs when the immune system is severely  damaged, causing the body to become vulnerable to infections
+* A person infected with HIV/AIDS is known as 'HIV-Positive', and may not have any symptoms at all for the next 9-10 years, after which they will develop aids
+* There is no known cure for AiDS
+* HIV/AIDS is transferred from person to person through blood or bodily fluids
+  * The most common form of transmission is through **sexual contact** with a HIV-positive person
+  * If the person has an STD, the chances of infection is even higher as it weakens the immunity system
+  * The virus may be transferred through the **sharing of infected needles** which is increasing in many DCs, accounting for 1/3 of infections in North America, China and Eastern Europe
+  * 5-10% of infections occur through **blood transfusions** tainted with HIV/AIDS; in Africa an estimated 250-500 people are infected with HIV/AIDS each day through tainted blood transfusions
+  * HIV/AIDS may be transmitted from a **pregnant mother to baby**; 25% of babies born to HIV-positive mothers have HIV/AIDS
+* Spreads from one location to another through both expansion and relocation diffusion
+* The most explosive growth of HIV/AIDS occured in the mid 1990s, especially in Sub-saharan africa
+* It spread through expansion diffusion in sub-saharan africa
+* By 2003, Africa was home to 2/3 of the world's people living with HIV/AIDS
+* HIV/ADIS continues to spread across the world
+* Sub-Saharan africa, Central America and Southeast Asia experience the highest incidence rate of HIV/AIDS
+* People who participate in risk-taking behaviours, women, people who lack sexaulity education awareness, children or infants born to HIV-Positive mothers are vulnerable to HIV/AIDS
+* Women are twice as likely as men to contract HIV/AIDS during heterosexual intercourse, and women in some societies are subject to sex without their consent, making them more vulnerable
 
-### Social stigma
+### Social Factors
 
-* Social stigma is extreme disapproval associated with a particular circumstance, or quality of a person
-* Commonly associated with HIV/ AIDS
-* HIV/ ADIS patients face various forms of discrimination
-  * Refusal of access to healthcare facilities
-  * Rejection by family or community
-  * Expulsion from school
-  * Denial from housing
-* Prejudice and ignorance about HIV/AIDS hindered early intervention of the disease
+#### Social stigma related to the disease
 
-### Education
+* Social stigma is an extreme disapproval associated with a particular circumstance or quality of a person, which in this case is commonly associated with HIV/AIDS
+* HIV/AIDS patients may face various forms of discrimination, including refused access to healthcare facilities, rejection by family or community, and being expelled from school or denied from housing
+* Due to prejudice against people with HIV/AIDS, and ignorance about how the disease is transmitted, early intervention of the disease was hindered in DCS and LDCs in the 1980s
 
-* Some people may not be aware of how HIV/AIDS can be transmitted, possibly due to a lack of education
-* These people may be more vulnerable to HIV/AIDS
-* Cultural practices keep girls from knowing about sex and sexuality until marriage
-* In Nigeria, discussion of sex is seen as inappropriate and is not conducted in schools as sex is a very private subject in the country
-  * Sexuality awareness education is not conducted in schools in Nigeria
+#### Education
 
-### Lifestyle choices
+* In some places, people are not aware of how diseases can be transmitted due to a lack of education
+* They do not know how to protect themselves and avoid getting infected, making them more vulnerable to HIV/AIDS
+* Cultural practises keep girls from knowing about sex and secuality untill marirage
+* Sex is a very private subject in NIgeria, and discussion of it is often seen as inappropriate, thus sexuality awareness education is not conducted in schools in Nigeria
 
-* Certain lifestyle choices may increase one's risk of being infected with HIV/AIDS
-  * Drug injections
-  * Sharing needles
-  * Refusal to use condoms
-* Drug abuse can put a persona t risk of being infected with HIV/AIDS
-* Drug and alcohol intoxication can affect judgement and lead to undafe sexual practices
+#### Lifestyle choices
 
-### Lapses in medical practices
+* Certain lifestyle choice may increase one's risk of being infected with HIV/AIDS
+* Examples include drug injection or sharing needles, or refusal to use condoms
+* Drug abuse can put a person at risk of being infected with HIV/AIDS
+* Drug and alcohol intoxication affect judgment and can lead to unsafe sexual practises, putting people at risk for getting HIV or transmitting it to someone else
 
-* Mistakes, corruption and negligence associated with medical practices contribute to the spread of HIV/AIDS
-* 5-10% of HIV infections were transmitted by blood transfusions tainted with HIV/AIDS
-* Often occurred in countries where there was no effective blood screening before blood was donated
-* Blood tainted with HIV/AIDS might have been collected and used in blood transfusions
-* From 2001-2011  in the USA, 130,000 patients were potentially exposed to HIV due to contaminated containers and syringes used during blood transfusion
+#### Lapses in medical practises
 
-### Vice trades
+* Mistakes, corruption and negligence associated with medical pracises contribute ot the spread og HIV/AIDS
+* 5-10% of HIV infections were transitted by blood transfusion tainted with HIV/AIDS
+* Often occurs in countries were there was no effective blood screening before blood was donated
+* Blood that was tainted with HIV/AIDS might have been collected and sued in blood transfusions
+* 130,000 patients were potentially exposed to HIV between 2001 and 2011 in the USA due to contaminated containers and syringes used in blood transfusions&#x20;
 
-* Vice trades are business activities such as the involvement in illegal drugs or commercial sex work
-* In China, some women, especially those who move from the villages have limited access to education and job training, resulting in limited job options
-* These women may resort to commercial sex work due to the lack of viable options, making them vulnerable to HIV/AIDS
+### Economic factors
 
-### Mobility
+#### Vice Trades&#x20;
 
-* Mobility refers to the movement of people form one place to another often for work reasons
-* Also refers to people who move from one place to another in search of better job opportunities
-* May be determined by the type of occupation a person has (miner, truck drivers)
-* People who have left their families in search of work may feel socially excluded and get involved in risk-taking behaviors, putting themselves at risk of getting infected
-* Development of modern transportation has helped the spread of HIV/AIDS
-* The tourism industry contributes to the spread of HIV/AIDS
-* Tourists often take risks they would not take at home like drink more and engage in unprotected sex
-* In 2010, some tourists from Queensland, Australia, were infected with HIV when they travelled for a vacation to a country with high HIV/AIDS prevalence
+* Vice trades refer to business activities such as the involvement in illegal drugs or commercial sex work
+* In China, women who move from villages to cities in search of work often have limited access to educational and job training, and can only find employment in jobs with low pay and no job security
+* They often resort to commercial sex work due to their lack of viable options, making them more vulnerable to HIV/AIDS
 
-## Impacts of HIV/AIDS
+#### Mobility
 
-### Life expectancy and infant mortality rate
+* Mobility refers to the movement of people from one place to another, often for work reasons such as searching for better job opportunities
+* Miners, truck drivers or an executive overseeing operations in many different countries then to be more mobile than a person that only works at one place
+* Men who move to cities or mining areas in search of work often leave their families behind
+* As a result of being separated from their families and living in a foreign place, people often feel socially excluded, and may get involved in risk-taking behaviour and put themselves at risk of being infected
+* The development of modern transportation has also helped in the spread of HIV/AIDS, allowing it to spread faster and reach more people
+* The tourism industry contributes to the spread of HIV/AIDS, as tourists often take risks the would not take at home, such as drinking more and and engaging in unprotected sex
+* In 2010, Queensland, Australia recorded its highest incidence of HIV/AIDS with 206 people diagnosed with HIV, as some tourists were infected with HIV when the travelled for a vacation to Papua New Guinea, a country near Australia with high HIV/AIDS prevalence
 
-* HIV/AIDS increases a country's number of deaths and reduces its life expectancy, population size and population growth
-* In countries most affected by HIV/AIDS, life expectancies are almost 6 years lower than what it would have been in the absence of the disease
-* By 2025, the figure is expected to be at 10.8 years
-* HIV/AIDS cause an increase in the countries infant mortality rate
+### Social impacts
 
-### Orphan crisis
+#### Life expectancy and infant mortality rate
 
-* Orphan crisis is situation win which large numbers of children lose their parents due to HIV/AIDS
-* There are 17 million orphans due to HIV/AIDS. a large majority of whom live in Sub-Saharan African countries
+* HIV/AIDS increases a country's numbers of deaths and reduces its life expectancy, population size and population growth
+* In most countries affected by HIV/AIDS, life expectancies are almost 6 years lower than what it would have been without the disease
+* By 2025, this figure is expected to be at 10.8 years
+* HIV/ADIS cases an increase in IMR
+
+#### Orphan crisis
+
+* An orphan crisis is a situations in which large number so children lose their parents due to HIV/AIDS
+* There are 17 million orphans due to HIV/AIDS, majority of which live in Sub-Saharan Africa
 * Many of the orphans are cared for by extended families
-* Careers of the orphans are plagued by deeper poverty due to medical costs and living expenses incurred&#x20;
+* The careers of the orphans due to HIV/AIDS are plagued by deeper poverty due to the medical costs and living expenses incurred when orphans stay with them
 * Orphanages are built by NGOs to care for the orphans
-* Some orphans do not have any support form adults, and suffer from emotional trauma from losing their parents
-* They are vulnerable to force labor, being forced into the sex industry and recruitment as child soldiers
-* They are often stigmatized by society through association with HIV/AIDS, and assumed to be HIV-positive themselves
-* The loss of parents to HIV/AIDS can limit a child's access to basic necessities (shelter, food, clothes, health, education)
-* Orphans are more likely to suffer from malnutrition and illnesses, as well as be infected with HIV/AIDS
-* They are often faced with a lower standard of living
+* Some orphans do not receive any support from adults
+* The orphans suffer from the emotional trauma of losing their parents
+* They are often stigmatized by society through association with HIV/AIDS, and are assumed to be HIV-positive themselves
+* They are vulnerable to force labour, being forced into the sex industry and to recruitment as child soldiers
+* The loss of parents to HIV/AIDS can limit their access to basic necessities such as shelter, food clothing, health and education
+* They are also more likely to suffer from malnutrition and illnesses as well as being infected with HIV/AIDS themselves
+* Therefore they are faced with a lower standard of living
 
-### Cost of health care
+### Economic impacts
 
-* Healthcare costs for HIV/AIDS are expensive for both individuals and countries
-* High costs of treatment and research, and healthcare expenditures by governments
-* The medications used to treat HIV/AIDS are called antiretroviral drugs
-  * Do not cure HIV/AIDS but keep it from progressing in the body
-  * Stops patients form suffering from complications for many years and even decades
-  * But, they are expensive
-  * In places where the drugs are subsidized or free, the cost is borne by NGOs or the government
+#### Cost of healthcare
+
+* Healthcare costs for HIV/AIDs can be expensive for both individuals and countries
+* Costs can come in the form of treatment and research, or healthcare expenditures by governments for treating complications from HIV/AIDS
+* Antiretroviral drugs are expensive in both DCs and LDCs
+* In places where the drugs are subsidised or free, the cost is borne by NGOs or the government
 * They have to be taken daily for the patient's entire life
-* Pregnant mothers with HIV/AIDS are also subject to treatment
-  * They have to go through screening prior to delivery
-  * They receive antenatal treatment (prior to deliver) to reduce the risk of passing HIV/AIDS to their babies
-* Governments may allocate limited resource to care for HIV/AIDS patients, diverting resources that could be used instead for other purposes
-* In 2010, the government of South Africa spent Us$1.2 billion on healthcare expenditure for HIV/AIDS patients
+* Pregnant mothers with HIV/AIDs are also subject to treatment as they have to go through screening for HIV/AIDS prior to delivery
+* They also receive antenatal treatment prior to delivery to reduce the risk of passing HIV/AIDS to their babies
+* The government may allocate limited resources to care for HIV/AIDS patients, diverting resource that can be used for other purposes
+* In 2010, the government of South Africa spent US$ 1.2 billion on healthcare expenditure for HIV/AIDS patients
 
-### Loss of productivity resulting in lower economic growth
+#### Loss of productivity resulting in slower economic growth
 
-* HIV/AIDS slows down economic growth through
-  * A shortage of skilled labor in the workforce through death or illnesses
-  * Using funds that could be sued for education, leading to a lower skilled workforce that deters foreign investment as businesses cannot find enough people to employ
-  * Using fund that could be sued for infrastructure, leading to an absence of infrastructure that could hinder the economic growth of a country
-* Businesses are less likely to invest in places
-  * without adequate infrastructure
-  * No skilled labor force
-  * with a population in poor health
-* Uganda experienced slow economic growth due to HIV/AIDS, and economic growth slowed by 1.2% each year due to HIV/AIDS, and if the trend continues, the countries economic growth could be reduced by up to 39% by 2025 as a direct result of HIV/AIDS
+* HIV/AIDS slows down economic growth through a shortage of skilled labour in the workforce, by causing high death rates which shrink the workforce
+* HIV/AIDS also can lead to illnesses that cause an employee to be absent from work for long periods, resulting in lower labour productivity
+* Using funds to care for HIV/AIDS patients causes a lack of funds for education, resulting in a less effective education system, resulting in a lower skilled workforce
+* This deters foreign investment and hinders economic growth, especially when businesses cannot find enough people to eploy, and this will further slow down economic growth
+* There is also a lack of funds for infrastructure, and the absence of infrastructure such as roads, public transport, schools and sanitation can hinder economic growth
+* Businesses are less likely to invest in places without adequate infrastructure, no skilled labour force and a population with poor health
+* Uganda experienced slow economic growth due to HIV/AIDS
+* Economic growth slowed down by 1.2% each year due to the disease, and can reduce the country's economic growth by up to 39% by 2025 if the trend continues

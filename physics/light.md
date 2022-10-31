@@ -51,7 +51,7 @@
 * Focal point is the point at which all rays parallel to the principal axis converge after refraction by the lens
   * A lens has 2 focal points, one on each side
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Focal plane is the plane that passes through the focal point, and perpendicular to the principal axis
 * When the parallel beam or incident rays on a thin converging lens is not parallel to the principal axis, the rays are refracted to a point on the focal plane (directly below or above the focal point)
