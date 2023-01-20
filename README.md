@@ -42,6 +42,8 @@ All the best for your upcoming exams, and I hope these notes push you to an A1!
 
 by the way, the ones in bold for my humanities (SS/ History) are outcomes and significance <3
 
+**Update:** hi its me from the future, and i am happy to say that i got 6 A1s for o levels!!!!!!!!!! i only got a2 for chem and b3 for chinese so yea if you need proof my notes work here it is
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
